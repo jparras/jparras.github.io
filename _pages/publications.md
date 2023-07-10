@@ -19,13 +19,13 @@ author_profile: true
 
 ### Barreno, P., Parras, J., & Zazo, S. (2023). An efficient underwater navigation method using MPC with unknown kinematics and non-linear disturbances. Journal of Marine Science and Engineering. 2023, 11, 710.
 
-* [DOI](https://doi.org/10.3390/jmse11040710)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:M3ejUd6NZC8C)  [PDF](../files/2023-jmse.pdf)
+* [DOI](https://doi.org/10.3390/jmse11040710)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:M3ejUd6NZC8C)  [PDF](../files/2023-jmse.pdf)  [Code](https://github.com/jparras/mpc_linear)
 * Journal metrics (2022): IF: 2.9, Rank Q1 (78.1 in Engineering: Marine) (Note: these values are not yet definitive).
 
 
 ### Parras, J., Almodóvar, A., Apellániz, P.A., & Zazo, S. (2022). Inverse Reinforcement Learning: a New Framework to Mitigate an Intelligent Backoff Attack. IEEE Internet of Things Journal, vol 9, no. 24, pp.24790-24799, December 2022.
 
-* [DOI](https://doi.org/10.1109/JIOT.2022.3194694)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4TOpqqG69KYC)  [PDF](../files/2022-jiot.pdf)
+* [DOI](https://doi.org/10.1109/JIOT.2022.3194694)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4TOpqqG69KYC)  [PDF](../files/2022-jiot.pdf)  [Code](https://github.com/jparras/irl_attack)
 * Journal metrics (2022): IF: 10.6, Rank Q1 (94.9 in Telecommunications, 97.8 in Computer Science: Information Systems, 95.5 in Engineering: Electrical and Electronic).
 
 
@@ -36,7 +36,7 @@ author_profile: true
 
 ### Parras, J., Apellániz, P.A., & Zazo, S. (2022). An online learning algorithm to play discounted repeated games in wireless networks. Engineering Applications of Artificial Intelligence, 107, 104520.
 
-* [DOI](https://doi.org/10.1016/j.engappai.2021.104520)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:YOwf2qJgpHMC)  [PDF](../files/2022-eaai.pdf)
+* [DOI](https://doi.org/10.1016/j.engappai.2021.104520)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:YOwf2qJgpHMC)  [PDF](../files/2022-eaai.pdf)  [Code](https://github.com/jparras/lewis)]
 * Journal metrics (2022): IF: 8.0, Rank Q1 (90.0 in Automation & Control Systems, 95.0 in Engineering: Multidisciplinary, 83.1 in Computer Science: Artificial Intelligence, 89.3 in Engineering: Electrical and Electronic).
 
 ### Parras, J., Apellániz, P.A., & Zazo, S. (2021). Deep Learning for Efficient and Optimal Motion Planning for AUVs with Disturbances. Sensors 21(15), 5011.
@@ -83,7 +83,7 @@ author_profile: true
 
 ### Tapia, D., Parras, J., & Zazo, S. (2019, September). Deep Reinforcement Learning for autonomous model-free navigation with partial observability. In 2019 27th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-* [DOI](https://doi.org/10.23919/EUSIPCO.2019.8902933)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:0EnyYjriUFMC)  [PDF](../files/2019-eusipco-tapia.pdf)
+* [DOI](https://doi.org/10.23919/EUSIPCO.2019.8902933)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:0EnyYjriUFMC)  [PDF](../files/2019-eusipco-tapia.pdf)  [Code](https://github.com/itsTAMART/UAV-RL-environment)
 
 
 ### Baldazo, D., Parras, J., & Zazo, S. (2019, September). Decentralized multi-agent deep reinforcement learning in swarms of drones for flood monitoring. In 2019 27th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
