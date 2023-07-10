@@ -11,7 +11,7 @@ redirect_from:
 
 * PhD in Telecommunication Engineering (2016 - 2020)
     - [Universidad Politécnica de Madrid](https://www.upm.es/)
-    - Program: Comunications Technologies and Systems
+    - Program: Communications Technologies and Systems
     - Research stay at [University of Lincoln](https://www.lincoln.ac.uk/) (United Kingdom)
 
 * Master's Degree in Telecommunications Engineering (2014 - 2016)
