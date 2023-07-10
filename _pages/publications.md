@@ -36,7 +36,7 @@ author_profile: true
 
 ### Parras, J., Apellániz, P.A., & Zazo, S. (2022). An online learning algorithm to play discounted repeated games in wireless networks. Engineering Applications of Artificial Intelligence, 107, 104520.
 
-* [DOI](https://doi.org/10.1016/j.engappai.2021.104520)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:YOwf2qJgpHMC)  [PDF](../files/2022-eaai.pdf)  [Code](https://github.com/jparras/lewis)]
+* [DOI](https://doi.org/10.1016/j.engappai.2021.104520)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:YOwf2qJgpHMC)  [PDF](../files/2022-eaai.pdf)  [Code](https://github.com/jparras/lewis)
 * Journal metrics (2022): IF: 8.0, Rank Q1 (90.0 in Automation & Control Systems, 95.0 in Engineering: Multidisciplinary, 83.1 in Computer Science: Artificial Intelligence, 89.3 in Engineering: Electrical and Electronic).
 
 ### Parras, J., Apellániz, P.A., & Zazo, S. (2021). Deep Learning for Efficient and Optimal Motion Planning for AUVs with Disturbances. Sensors 21(15), 5011.
