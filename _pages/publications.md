@@ -41,7 +41,7 @@ author_profile: true
 
 ### Parras, J., Apellániz, P.A., & Zazo, S. (2021). Deep Learning for Efficient and Optimal Motion Planning for AUVs with Disturbances. Sensors 21(15), 5011.
 
-* [DOI](https://doi.org/10.3390/s21155011)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:Zph67rFs4hoC)  [PDF](../files/2021-sensors.pdf)
+* [DOI](https://doi.org/10.3390/s21155011)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:Zph67rFs4hoC)  [PDF](../files/2021-sensors.pdf)  [Code](https://github.com/jparras/dla_navigation)
 * Journal metrics (2021): IF: 3.847, Rank Q2 (71.09 in Instruments and Instrumentation, 65.76 in Engineering, Electrical and Electronic).
 
 ### Parras, J., Hüttenrauch, M., Zazo, S., & Neumann, G. (2021). Deep Reinforcement Learning for Attacking Wireless Sensor Networks. Sensors, 21(12), 4060.
@@ -51,7 +51,7 @@ author_profile: true
 
 ### Parras, J., & Zazo, S. (2021, June). Robust Deep Reinforcement Learning for underwater navigation with unknown disturbances. In 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3440-3444). IEEE.
 
-* [DOI](https://doi.org/10.1109/ICASSP39728.2021.9414937)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:kNdYIx-mwKoC)  [PDF](../files/2021-icassp.pdf)
+* [DOI](https://doi.org/10.1109/ICASSP39728.2021.9414937)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:kNdYIx-mwKoC)  [PDF](../files/2021-icassp.pdf)  [Code](https://github.com/jparras/robust_drl_navigation)
 
 
 ### Parras, J., & Zazo, S. (2020). The Threat of Intelligent Attackers Using Deep Learning: The Backoff Attack Case. In Deep Learning Strategies for Security Enhancement in Wireless Sensor Networks (pp. 110-133). IGI Global.
@@ -61,12 +61,12 @@ author_profile: true
 
 ### Parras, J., & Zazo, S. (2020, May). A Graph Network Model for Distributed Learning with Limited Bandwidth Links and Privacy Constraints. In 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3907-3911). IEEE.
 
-* [DOI](https://doi.org/10.1109/ICASSP40776.2020.9053067)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:8k81kl-MbHgC)  [PDF](../files/2020-icassp.pdf)
+* [DOI](https://doi.org/10.1109/ICASSP40776.2020.9053067)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:8k81kl-MbHgC)  [PDF](../files/2020-icassp.pdf)  [Code](https://github.com/jparras/gnn_limited_bandwidth)
 
 
 ### Parras, J., and Zazo, S. (2020). A distributed algorithm to obtain repeated games equilibria with discounting.  Applied Mathematics and Computation, 367 (2020): 124785.
 
-* [DOI](https://doi.org/10.1016/j.amc.2019.124785)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:UebtZRa9Y70C)  [PDF](../files/2020-amc.pdf)
+* [DOI](https://doi.org/10.1016/j.amc.2019.124785)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:UebtZRa9Y70C)  [PDF](../files/2020-amc.pdf)  [Code](https://github.com/jparras/ca_algorithm)
 * Journal metrics (2020): IF: 4.091, Rank Q1 (97.55 in Mathematics: applied).
 
 
