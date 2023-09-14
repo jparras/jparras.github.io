@@ -4,13 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
 
-### Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks
+* Accepted for publication.
+* Journal metrics (2022): IF 2.6, Rank Q2 (63.5 in Pediatrics) (Note: these values are not yet definitive).
+
+
+### Parras, J., & Zazo, S. (2023). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks.
 
 * Accepted for publication in *31st European Signal Processing Conference (EUSIPCO)*.
 
 
-### Sanz-Nogales, J.M, Parras, J., & Zazo, S. (2023) DDQN-based optimal targeted therapy with reversible inhibitors to combat the Warburg effect. Mathematical biosciences, 109044. 
+### Sanz-Nogales, J.M, Parras, J., & Zazo, S. (2023). DDQN-based optimal targeted therapy with reversible inhibitors to combat the Warburg effect. Mathematical biosciences, 109044. 
 
 * Accepted for publication.
 * [DOI](https://doi.org/10.1016/j.mbs.2023.109044)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:qxL8FJ1GzNcC)  [PDF](../files/2023-mbs.pdf)  [Code](https://github.com/jsanno/ddqn)

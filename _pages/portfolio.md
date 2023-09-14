@@ -11,6 +11,10 @@ author_profile: true
     * Model-free methods: DDQN, VPG, A2C, TRPO, DDPG.
     * Model-based methods: AlphaZero.
 
+## Random Signals teaching codes
+
+* These codes are used in my teaching on Random Signals. The codes are explained in Spanish, and are available [here](https://github.com/jparras/salt). 
+
 ## Federated baselines
 
 * This code contains several baselines to be used for federated learning problems, including ADMM and BNN implementations. The code is available [here](https://github.com/jparras/fed-baselines).
