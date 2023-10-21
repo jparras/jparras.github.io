@@ -6,13 +6,14 @@ author_profile: true
 ---
 ### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
 
-* [DOI](https://doi.org/10.3389/fped.2023.1269560)  [PDF](../files/2023-fped.pdf)
+* [DOI](https://doi.org/10.3389/fped.2023.1269560)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:aqlVkmm33-oC)  [PDF](../files/2023-fped.pdf)
 * Journal metrics (2022): IF 2.6, Rank Q2 (63.5 in Pediatrics) (Note: these values are not yet definitive).
 
 
-### Parras, J., & Zazo, S. (2023). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks.
+### Parras, J., & Zazo, S. (2023, September). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks. In 2023 31st European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-* Accepted for publication in *31st European Signal Processing Conference (EUSIPCO)*.
+* [PDF](../files/2023-eusipco.pdf)  [Code](https://github.com/jparras/ca_eusipco)
+* Conference paper.
 
 
 ### Sanz-Nogales, J.M, Parras, J., & Zazo, S. (2023). DDQN-based optimal targeted therapy with reversible inhibitors to combat the Warburg effect. Mathematical biosciences, 363, 109044. 
@@ -56,16 +57,19 @@ author_profile: true
 ### Parras, J., & Zazo, S. (2021, June). Robust Deep Reinforcement Learning for underwater navigation with unknown disturbances. In 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3440-3444). IEEE.
 
 * [DOI](https://doi.org/10.1109/ICASSP39728.2021.9414937)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:kNdYIx-mwKoC)  [PDF](../files/2021-icassp.pdf)  [Code](https://github.com/jparras/robust_drl_navigation)
+* Conference paper.
 
 
 ### Parras, J., & Zazo, S. (2020). The Threat of Intelligent Attackers Using Deep Learning: The Backoff Attack Case. In Deep Learning Strategies for Security Enhancement in Wireless Sensor Networks (pp. 110-133). IGI Global.
 
 * [DOI](https://doi.org/10.4018/978-1-7998-5068-7.ch006) [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:MXK_kJrjxJIC)
+* Book Chapter.
 
 
 ### Parras, J., & Zazo, S. (2020, May). A Graph Network Model for Distributed Learning with Limited Bandwidth Links and Privacy Constraints. In 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3907-3911). IEEE.
 
 * [DOI](https://doi.org/10.1109/ICASSP40776.2020.9053067)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:8k81kl-MbHgC)  [PDF](../files/2020-icassp.pdf)  [Code](https://github.com/jparras/gnn_limited_bandwidth)
+* Conference paper.
 
 
 ### Parras, J., and Zazo, S. (2020). A distributed algorithm to obtain repeated games equilibria with discounting.  Applied Mathematics and Computation, 367 (2020): 124785.
@@ -88,11 +92,13 @@ author_profile: true
 ### Tapia, D., Parras, J., & Zazo, S. (2019, September). Deep Reinforcement Learning for autonomous model-free navigation with partial observability. In 2019 27th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
 * [DOI](https://doi.org/10.23919/EUSIPCO.2019.8902933)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:0EnyYjriUFMC)  [PDF](../files/2019-eusipco-tapia.pdf)  [Code](https://github.com/itsTAMART/UAV-RL-environment)
+* Conference paper.
 
 
 ### Baldazo, D., Parras, J., & Zazo, S. (2019, September). Decentralized multi-agent deep reinforcement learning in swarms of drones for flood monitoring. In 2019 27th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
 * [DOI](https://doi.org/10.1109/SPAWC.2019.8815408)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hqOjcs7Dif8C)  [PDF](../files/2019-eusipco-baldazo.pdf)
+* Conference paper.
 
 
 ### Parras, J., Zazo, S, Pérez-Álvarez, I. A., & Sanz González, J. L. (2019). Model free localization with Deep Neural Architectures by means of an underwater WSN. Sensors, 19(16), 3530.
@@ -104,6 +110,7 @@ author_profile: true
 ### Parras, J., & Zazo, S. (2019, July). Sequential Bayes factor testing: a new framework for decision fusion. In 20th International workshop on Signal processing advances in wireless communications (SPAWC), 2019 , (pp. 1-5). IEEE. 
 
 * [DOI](https://doi.org/10.1109/SPAWC.2019.8815408)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:Se3iqnhoufwC)  [PDF](../files/2019-spawc.pdf)
+* Conference paper.
 
 
 ### Parras, J., & Zazo, S. (2019). Learning attack mechanisms in Wireless Sensor Networks using Markov Decision Processes. Expert Systems with Applications, 122, 376-387.
@@ -127,13 +134,16 @@ author_profile: true
 ### del Val, J., Zazo, S., Macua, S. V., Zazo, J., & Parras, J. (2016, August). Optimal attack and defence of large scale networks using mean field theory. In 24th European Signal Processing Conference (EUSIPCO), 2016 (pp. 973-977). IEEE.
 
 * [DOI](https://doi.org/10.1109/EUSIPCO.2016.7760393)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:W7OEmFMy1HYC)  [PDF](../files/2016-eusipco.pdf)
+* Conference paper.
 
 
 ### Parras, J., del Val, J., Zazo, S., Zazo, J., & Macua, S. V. (2016, June). A new approach for solving anti-jamming games in stochastic scenarios as pursuit-evasion games. In Statistical Signal Processing Workshop (SSP), 2016 IEEE (pp. 1-5). IEEE.
 
 * [DOI](https://doi.org/10.1109/SSP.2016.7551804)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:ufrVoPGSRksC)  [PDF](../files/2016-ssp.pdf)
+* Conference paper.
 
 
 ### Parras-Moral, J., Canadas-Quesada, F., Vera-Candeas, P., & Ruiz-Reyes, N. (2013). Audio restoration of solo guitar excerpts using a excitation-filter instrument model. Sound And Music Computing Conference 2013 (pp. 654-659). Logos Verlag.
 
 * [DOI](https://doi.org/10.5281/zenodo.850220) [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:roLk4NBRz8UC)  [PDF](../files/2013-smc.pdf)
+* Conference paper.
