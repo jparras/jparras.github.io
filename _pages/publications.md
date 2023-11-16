@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+### Almodóvar, A., Parras, J., & Zazo, S. (2023, October). Federated learning for causal inference using deep generative disentangled models. In 1st Workshop on Deep Generative Models for Health, NeurIPS 2023.
+
+* [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:Wp0gIr-vW9MC)  [PDF](../files/2023-nips.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
+* Conference paper.
+
+
 ### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
 
 * [DOI](https://doi.org/10.3389/fped.2023.1269560)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:aqlVkmm33-oC)  [PDF](../files/2023-fped.pdf)
@@ -12,7 +19,7 @@ author_profile: true
 
 ### Parras, J., & Zazo, S. (2023, September). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks. In 2023 31st European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-* [PDF](../files/2023-eusipco.pdf)  [Code](https://github.com/jparras/ca_eusipco)
+* [DOI](https://doi.org/10.23919/EUSIPCO58844.2023.10290042)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4DMP91E08xMC)  [PDF](../files/2023-eusipco.pdf)  [Code](https://github.com/jparras/ca_eusipco)
 * Conference paper.
 
 
