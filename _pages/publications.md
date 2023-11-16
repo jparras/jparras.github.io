@@ -17,7 +17,7 @@ author_profile: true
 * Journal metrics (2022): IF 2.6, Rank Q2 (63.5 in Pediatrics) (Note: these values are not yet definitive).
 
 
-### Parras, J., & Zazo, S. (2023, September). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks. In 2023 31st European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
+### Parras, J., & Zazo, S. (2023, September). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks. In 2023 31st European Signal Processing Conference (EUSIPCO) (pp. 1743-1747). IEEE.
 
 * [DOI](https://doi.org/10.23919/EUSIPCO58844.2023.10290042)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4DMP91E08xMC)  [PDF](../files/2023-eusipco.pdf)  [Code](https://github.com/jparras/ca_eusipco)
 * Conference paper.
