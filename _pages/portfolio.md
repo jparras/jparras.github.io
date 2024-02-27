@@ -8,8 +8,16 @@ author_profile: true
 ## Deep Reinforcement Learning teaching codes
 
 * These codes are used for my teaching courses on Deep Reinforcement Learning. The codes are minimal implementations, intended for teaching, and available [here](https://github.com/jparras/drl_classes). The codes include:
-    * Model-free methods: DDQN, VPG, A2C, TRPO, DDPG.
-    * Model-based methods: AlphaZero.
+    * Basic methods and examples to understand MDPs.
+    * Classic RL methods, including iterative methods, model-free tabular methods and linear approximations.
+    * Model-free DRL methods: DDQN, VPG, A2C, TRPO, DDPG.
+    * Model-based DRL methods: AlphaZero.
+
+## Deep Generative Models teaching codes
+
+* These codes are used for my teaching courses on Deep Generative Models. The codes are minimal implementations, intended for teaching, and available [here](https://github.com/jparras/dgm_classes). The codes include:
+    * Simple models, intended to understand the basic principles underlying a Generative Model, as well as classical methods used for sampling.
+    * DGM models: VAE, GAN.
 
 ## Random Signals teaching codes
 

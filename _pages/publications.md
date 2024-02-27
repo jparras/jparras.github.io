@@ -5,10 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Apellániz, P.A., Parras, J. & Zazo, S. SAVAE: Leveraging the variational Bayes autoencoder for survival analysis. *ArXiv preprint*.
+
+* [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:9ZlFYXVOiuMC)  [PDF](https://arxiv.org/pdf/2312.14651v1.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
+
+
 ### Almodóvar, A., Parras, J., & Zazo, S. (2023, October). Federated learning for causal inference using deep generative disentangled models. In 1st Workshop on Deep Generative Models for Health, NeurIPS 2023.
 
 * [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:Wp0gIr-vW9MC)  [PDF](../files/2023-nips.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
 * Conference paper.
+
+
+### Jiménez, A. Merino, M.J., Parras, J. & Zazo, S. Explainable drug repurposing via path-based knowledge graph completion. *DrugrXiv reprint*.
+
+* [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](https://drugrepocentral.scienceopen.com/document_file/51107583-897a-43bc-b89a-945994628098/ScienceOpenPreprint/xg4repo_preprint_231011.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
 
 
 ### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
