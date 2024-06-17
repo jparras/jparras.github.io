@@ -21,5 +21,5 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
 
 ## Latest news
 
-* In 2024, we have published [preprint](../publications):
+* In 2024, we have [published](../publications):
     - MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers, in the journal JCO Clinical Cancer Informatics.
