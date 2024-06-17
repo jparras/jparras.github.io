@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### D'Amico, Saverio, et al (2024). MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers. JCO Clinical Cancer Informatics.
+
+* [DOI](https://doi.org/10.1200/CCI.24.00008)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:7PzlFSSx8tAC)  [PDF](../files/2024-jco.pdf)
+* Journal metrics (2022): IF 4.2, Rank Q2 (62.42 in Oncology) (Note: these values are not yet definitive).
+
 ### Apellániz, P.A., Parras, J. & Zazo, S. SAVAE: Leveraging the variational Bayes autoencoder for survival analysis. *ArXiv preprint*.
 
 * [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:9ZlFYXVOiuMC)  [PDF](https://arxiv.org/pdf/2312.14651v1.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
