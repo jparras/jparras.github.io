@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Almodóvar, A., Parras, J., & Zazo, S. (2024). Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments. Computers in Biology and Medicine.
+
+* [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar]()  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
+* Journal metrics (2023): IF 7.0, Rank Q1 (94.0 in Biology, 89.6 in Computer Science, Interdisciplinary Applications, 87.3 in Engineering, Biomedical, 93.6 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
+
 ### D'Amico, Saverio, et al (2024). MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers. JCO Clinical Cancer Informatics.
 
 * [DOI](https://doi.org/10.1200/CCI.24.00008)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:7PzlFSSx8tAC)  [PDF](../files/2024-jco.pdf)
-* Journal metrics (2022): IF 4.2, Rank Q2 (62.42 in Oncology) (Note: these values are not yet definitive).
+* Journal metrics (2023): IF 3.3, Rank Q2 (63.5 in Oncology) (Note: these values are not yet definitive).
 
 ### Apellániz, P.A., Parras, J. & Zazo, S. SAVAE: Leveraging the variational Bayes autoencoder for survival analysis. *ArXiv preprint*.
 
@@ -21,7 +26,7 @@ author_profile: true
 * Conference paper.
 
 
-### Jiménez, A. Merino, M.J., Parras, J. & Zazo, S. Explainable drug repurposing via path-based knowledge graph completion. *DrugrXiv reprint*.
+### Jiménez, A. Merino, M.J., Parras, J. & Zazo, S. Explainable drug repurposing via path-based knowledge graph completion. *DrugrXiv preprint*.
 
 * [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](https://drugrepocentral.scienceopen.com/document_file/51107583-897a-43bc-b89a-945994628098/ScienceOpenPreprint/xg4repo_preprint_231011.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
 
@@ -29,7 +34,7 @@ author_profile: true
 ### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
 
 * [DOI](https://doi.org/10.3389/fped.2023.1269560)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:aqlVkmm33-oC)  [PDF](../files/2023-fped.pdf)
-* Journal metrics (2022): IF 2.6, Rank Q2 (63.5 in Pediatrics) (Note: these values are not yet definitive).
+* Journal metrics (2023): IF 2.1, Rank Q2 (68.5 in Pediatrics).
 
 
 ### Parras, J., & Zazo, S. (2023, September). Negotiation strategies to improve distributed power allocation for self-organizing heterogeneous networks. In 2023 31st European Signal Processing Conference (EUSIPCO) (pp. 1743-1747). IEEE.
@@ -41,13 +46,13 @@ author_profile: true
 ### Sanz-Nogales, J.M, Parras, J., & Zazo, S. (2023). DDQN-based optimal targeted therapy with reversible inhibitors to combat the Warburg effect. Mathematical biosciences, 363, 109044. 
 
 * [DOI](https://doi.org/10.1016/j.mbs.2023.109044)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:qxL8FJ1GzNcC)  [PDF](../files/2023-mbs.pdf)  [Code](https://github.com/jsanno/ddqn)
-* Journal metrics (2022): IF 4.3, Rank Q1 (82.7 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
+* Journal metrics (2023): IF 1.9, Rank Q2 (52.8 in Biology).
 
 
 ### Barreno, P., Parras, J., & Zazo, S. (2023). An efficient underwater navigation method using MPC with unknown kinematics and non-linear disturbances. Journal of Marine Science and Engineering. 2023, 11, 710.
 
 * [DOI](https://doi.org/10.3390/jmse11040710)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:M3ejUd6NZC8C)  [PDF](../files/2023-jmse.pdf)  [Code](https://github.com/jparras/mpc_linear)
-* Journal metrics (2022): IF: 2.9, Rank Q1 (78.1 in Engineering: Marine) (Note: these values are not yet definitive).
+* Journal metrics (2023): IF: 2.7, Rank Q1 (78.0 in Engineering: Marine).
 
 
 ### Parras, J., Almodóvar, A., Apellániz, P.A., & Zazo, S. (2022). Inverse Reinforcement Learning: a New Framework to Mitigate an Intelligent Backoff Attack. IEEE Internet of Things Journal, vol 9, no. 24, pp.24790-24799, December 2022.
@@ -119,7 +124,7 @@ author_profile: true
 
 ### Baldazo, D., Parras, J., & Zazo, S. (2019, September). Decentralized multi-agent deep reinforcement learning in swarms of drones for flood monitoring. In 2019 27th European Signal Processing Conference (EUSIPCO) (pp. 1-5). IEEE.
 
-* [DOI](https://doi.org/10.1109/SPAWC.2019.8815408)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hqOjcs7Dif8C)  [PDF](../files/2019-eusipco-baldazo.pdf)  [Code](https://github.com/dabalda/drl_for_natural_disaster_monitoring)
+* [DOI](https://doi.org/10.23919/EUSIPCO.2019.8903067)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hqOjcs7Dif8C)  [PDF](../files/2019-eusipco-baldazo.pdf)  [Code](https://github.com/dabalda/drl_for_natural_disaster_monitoring)
 * Conference paper.
 
 
