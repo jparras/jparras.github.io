@@ -7,7 +7,7 @@ author_profile: true
 
 ### Almodóvar, A., Parras, J., & Zazo, S. (2024). Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments. Computers in Biology and Medicine.
 
-* [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar]()  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
+* [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:L8Ckcad2t8MC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
 * Journal metrics (2023): IF 7.0, Rank Q1 (94.0 in Biology, 89.6 in Computer Science, Interdisciplinary Applications, 87.3 in Engineering, Biomedical, 93.6 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
 
 ### D'Amico, Saverio, et al (2024). MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers. JCO Clinical Cancer Informatics.
