@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Jiménez, A., Merino, M. J., Parras, J., & Zazo, S. (2024). Explainable drug repurposing via path based knowledge graph completion. Scientific Reports.
+
+* [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar]()  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
+* Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
+
+
 ### Almodóvar, A., Parras, J., & Zazo, S. (2024). Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments. Computers in Biology and Medicine.
 
 * [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:L8Ckcad2t8MC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
