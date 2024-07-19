@@ -26,18 +26,25 @@ author_profile: true
 * Time: 2023 - Today.
 
 
-### Application Projects
-
-* Degree: [Master's Degree in Signal Theory and Communications.](https://ssr.upm.es/mutsc/)
-* Language: English.
-* Time: 2020 - Today.
-
-
 ### Optimization Techniques for Big Data Analysis
 
 * Degree: [Master's Degree in Signal Theory and Communications.](https://ssr.upm.es/mutsc/)
 * Language: English.
 * Time: 2019 - 2023.
+
+
+### Application Projects
+
+* Degree: [Master's Degree in Signal Theory and Communications.](https://ssr.upm.es/mutsc/)
+* Language: English.
+* Time: 2020 - 2023.
+
+
+### Equipos y sistemas audiovisuales
+
+* Degree: [Grado en Ingeniería de Tecnologías y Sistemas de Telecomunicación.](https://www.etsit.upm.es/estudios/grado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion.html)
+* Language: Spanish.
+* Time: 2019 - 2021
 
 
 ### Producción multimedia
@@ -47,8 +54,3 @@ author_profile: true
 * Time: 2018 - 2020.
 
 
-### Equipos y sistemas audiovisuales
-
-* Degree: [Grado en Ingeniería de Tecnologías y Sistemas de Telecomunicación.](https://www.etsit.upm.es/estudios/grado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion.html)
-* Language: Spanish.
-* Time: 2019 - 2021

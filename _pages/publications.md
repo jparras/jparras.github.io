@@ -32,11 +32,6 @@ author_profile: true
 * Conference paper.
 
 
-### Jiménez, A. Merino, M.J., Parras, J. & Zazo, S. Explainable drug repurposing via path-based knowledge graph completion. *DrugrXiv preprint*.
-
-* [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](https://drugrepocentral.scienceopen.com/document_file/51107583-897a-43bc-b89a-945994628098/ScienceOpenPreprint/xg4repo_preprint_231011.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
-
-
 ### Velasco, Pablo, et al (2023). The Relapsed Acute Lymphoblastic Leukemia Network (ReALLNet): A multidisciplinary project from the Spanish Society of Pediatric Hematology and Oncology (SEHOP). Frontiers in Pediatrics.
 
 * [DOI](https://doi.org/10.3389/fped.2023.1269560)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:aqlVkmm33-oC)  [PDF](../files/2023-fped.pdf)

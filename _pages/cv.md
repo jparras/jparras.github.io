@@ -45,18 +45,19 @@ redirect_from:
 
 ## Publications
 
-Check [here](../publications).
+Author of 18 journal papers (12 in Q1, 6 in Q2), 10 conference papers and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 
 * Courses, check [here](../teaching).
 * Thesis advised:
+    - PhD: 3 (in progress)
+    - Master: 14
     - Bachelor: 1
-    - Master: 12
 
 ## Research projects
 
-* European funding: REPO4EU, SYNTHEMA, GENOMED4ALL.
+* European funding: [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [GENOMED4ALL](https://doi.org/10.3030/101017549).
 * National funding: Nautilus, Herakles, Comonsens Excellence Network (x2), IP-HFDVL, Underworld.
 * Regional funding: MadridDataSpace4Pandemics.
 
@@ -66,6 +67,8 @@ Check [here](../publications).
 * Best Research Article, Ramón y Zerco del Valle award (accésit, 2021).
 * Defense Security Innovation Brokerage (DSIB) (second position, 2021).
 * Best Master Thesis, Ramón y Zerco del Valle award (winner, 2016).
+* Special Master mention due to academics distintion (winner, 2016). 
+* Best expedient in Bachelos (winner, 2014).
 * National Physics Olympics (bronze medal, 2010).
 * Regional Physics Olympics (gold medal, 2010).
 * Regional Mathematics Olympics (bronze medal, 2010).
