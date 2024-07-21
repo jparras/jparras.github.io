@@ -7,7 +7,7 @@ author_profile: true
 
 ### Jiménez, A., Merino, M. J., Parras, J., & Zazo, S. (2024). Explainable drug repurposing via path based knowledge graph completion. Scientific Reports.
 
-* [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar]()  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
+* [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
 * Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
 
 
@@ -16,14 +16,11 @@ author_profile: true
 * [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:L8Ckcad2t8MC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
 * Journal metrics (2023): IF 7.0, Rank Q1 (94.0 in Biology, 89.6 in Computer Science, Interdisciplinary Applications, 87.3 in Engineering, Biomedical, 93.6 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
 
+
 ### D'Amico, Saverio, et al (2024). MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers. JCO Clinical Cancer Informatics.
 
 * [DOI](https://doi.org/10.1200/CCI.24.00008)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:7PzlFSSx8tAC)  [PDF](../files/2024-jco.pdf)
 * Journal metrics (2023): IF 3.3, Rank Q2 (63.5 in Oncology) (Note: these values are not yet definitive).
-
-### Apellániz, P.A., Parras, J. & Zazo, S. SAVAE: Leveraging the variational Bayes autoencoder for survival analysis. *ArXiv preprint*.
-
-* [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:9ZlFYXVOiuMC)  [PDF](https://arxiv.org/pdf/2312.14651v1.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
 
 
 ### Almodóvar, A., Parras, J., & Zazo, S. (2023, October). Federated learning for causal inference using deep generative disentangled models. In 1st Workshop on Deep Generative Models for Health, NeurIPS 2023.
