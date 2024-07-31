@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Apellániz, P. A., Jiménez, A., Arroyo Galende, B., Parras, J., & Zazo, S. (2024). Synthetic tabular data validation: a divergence-based approach. IEEE Access. 
+
+* [DOI](https://doi.org/10.1109/ACCESS.2024.3434582)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:dhFuZR0502QC)  [PDF](../files/2024-access.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/divergence_estimator)
+* Journal metrics (2023): IF 3.4, Rank Q2 (65.3 in Computer Science, Information Systems, 65.5 in Engineering, Electrical & Electronic, 60.9 in Telecommunications) (Note: these values are not yet definitive).
+
+
 ### Jiménez, A., Merino, M. J., Parras, J., & Zazo, S. (2024). Explainable drug repurposing via path based knowledge graph completion. Scientific Reports.
 
 * [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)

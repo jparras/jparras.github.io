@@ -25,3 +25,4 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
     - MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers, in the journal JCO Clinical Cancer Informatics.
     - Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments, in the journal Computers in Biology and Medicine.
     - Explainable drug repurposing via path based knowledge graph completion, in the journal Scientific Reports.
+    - Synthetic tabular data validation: a divergence-based approach, in the journal IEEE Access.
