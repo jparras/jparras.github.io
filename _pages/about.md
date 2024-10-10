@@ -26,3 +26,7 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
     - Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments, in the journal Computers in Biology and Medicine.
     - Explainable drug repurposing via path based knowledge graph completion, in the journal Scientific Reports.
     - Synthetic tabular data validation: a divergence-based approach, in the journal IEEE Access.
+    - NauSim: An open source simulator for underwater drone control, development and deployment, as a conference paper in XLV Jornadas de Automática.
+    - An improved tabular data generator with VAE-GMM integration, as a conference paper in EUSIPCO.
+    - CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks, as a conference paper in EUSIPCO.
+    - Leveraging the variational Bayer autoencoder for survival analysis, in the journal Scientific Reports.

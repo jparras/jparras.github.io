@@ -5,6 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Leveraging the variational Bayes autoencoder for survival analysis. Scientific Reports.
+
+* [Code](https://github.com/Patricia-A-Apellaniz/savae)
+* Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
+
+### Apellániz, P. A., Parras, J., & Zazo, S. (2023, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+
+* [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
+* Conference paper.
+
+### Apellániz, P. A., Parras, J., & Zazo, S. (2023, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+
+* [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
+* Conference paper.
+
+### Ortiz-Toro, C.A., Cerrada-Collado, C., Moreno-Salinas, D., Chaos-García, D., García-Suárez, K.L., Otero, P., Vidal-Pérez, J.M, Luque-Nieto, M.A., Vázquez, A.I, Fraile-Ardanuy, J.J, Negro-Valdecantos, V., Jimenez-Yguacel, E., Aranda-Almansa, J., Zazo-Bello, S., José Zufiria, P. Magdalena, L., Parras, J., L. Gutiérrez, A. (2024, July). NauSim: An open source simulator for underwater drone control, development and deployment. In XLV Jornadas de Automática.
+
+* [DOI](https://doi.org/10.17979/ja-cea.2024.45.10895)  [PDF](../files/2024-ja.pdf) 
+* Conference paper.
+
 ### Apellániz, P. A., Jiménez, A., Arroyo Galende, B., Parras, J., & Zazo, S. (2024). Synthetic tabular data validation: a divergence-based approach. IEEE Access. 
 
 * [DOI](https://doi.org/10.1109/ACCESS.2024.3434582)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:dhFuZR0502QC)  [PDF](../files/2024-access.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/divergence_estimator)
@@ -13,7 +33,7 @@ author_profile: true
 
 ### Jiménez, A., Merino, M. J., Parras, J., & Zazo, S. (2024). Explainable drug repurposing via path based knowledge graph completion. Scientific Reports.
 
-* [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
+* [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](../files/2024-srep.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
 * Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
 
 
