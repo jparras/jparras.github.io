@@ -29,4 +29,5 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
     - NauSim: An open source simulator for underwater drone control, development and deployment, as a conference paper in XLV Jornadas de Automática.
     - An improved tabular data generator with VAE-GMM integration, as a conference paper in EUSIPCO.
     - CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks, as a conference paper in EUSIPCO.
+    - Deep Learning as a new framework for passive vehicle safety design using finite elements models data, in the journal Applied Sciences.
     - Leveraging the variational Bayer autoencoder for survival analysis, in the journal Scientific Reports.

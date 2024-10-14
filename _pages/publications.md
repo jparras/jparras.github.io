@@ -10,6 +10,11 @@ author_profile: true
 * [Code](https://github.com/Patricia-A-Apellaniz/savae)
 * Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
 
+### Lahoz Navarro, M., Jehle, J.S., Apellániz, P. A., Parras, J., Zazo, S., & Gerdts, M. (2024). Deep Learning as a new framework for passive vehicle safety design using finite elements models data. Applied Sciences.
+
+* [DOI](https://doi.org/10.3390/app14209296)  [PDF](../files/2024-applsci.pdf)  [Code](https://github.com/marlahozn/DL_for_vehicle_safety)
+* Journal metrics (2023): IF 2.5, Rank Q1 (75.7 in Engineering, Multidisciplinary) (Note: these values are not yet definitive).
+
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2023, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
 
 * [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
