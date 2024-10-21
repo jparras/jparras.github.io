@@ -7,7 +7,7 @@ author_profile: true
 
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Leveraging the variational Bayes autoencoder for survival analysis. Scientific Reports.
 
-* [Code](https://github.com/Patricia-A-Apellaniz/savae)
+* [DOI](https://doi.org/10.1038/s41598-024-76047-z)  [Scholar]()  [PDF](../files/2024-savae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
 * Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
 
 ### Lahoz Navarro, M., Jehle, J.S., Apellániz, P. A., Parras, J., Zazo, S., & Gerdts, M. (2024). Deep Learning as a new framework for passive vehicle safety design using finite elements models data. Applied Sciences.
@@ -15,12 +15,12 @@ author_profile: true
 * [DOI](https://doi.org/10.3390/app14209296)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hC7cP41nSMkC)  [PDF](../files/2024-applsci.pdf)  [Code](https://github.com/marlahozn/DL_for_vehicle_safety)
 * Journal metrics (2023): IF 2.5, Rank Q1 (75.7 in Engineering, Multidisciplinary) (Note: these values are not yet definitive).
 
-### Apellániz, P. A., Parras, J., & Zazo, S. (2023, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
 
 * [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
 * Conference paper.
 
-### Apellániz, P. A., Parras, J., & Zazo, S. (2023, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
 
 * [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
 * Conference paper.
