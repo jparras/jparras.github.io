@@ -7,7 +7,7 @@ author_profile: true
 
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Leveraging the variational Bayes autoencoder for survival analysis. Scientific Reports.
 
-* [DOI](https://doi.org/10.1038/s41598-024-76047-z)  [Scholar]()  [PDF](../files/2024-savae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
+* [DOI](https://doi.org/10.1038/s41598-024-76047-z)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:-f6ydRqryjwC)  [PDF](../files/2024-savae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
 * Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
 
 ### Lahoz Navarro, M., Jehle, J.S., Apellániz, P. A., Parras, J., Zazo, S., & Gerdts, M. (2024). Deep Learning as a new framework for passive vehicle safety design using finite elements models data. Applied Sciences.
