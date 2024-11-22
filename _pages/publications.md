@@ -22,12 +22,12 @@ author_profile: true
 
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd European Signal Processing Conference (EUSIPCO) (pp. 1886-1890). IEEE..
 
-* [DOI](https://doi.org/10.23919/EUSIPCO63174.2024.10715230)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:QIV2ME_5wuYC)  [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
+* [DOI](https://doi.org/10.23919/EUSIPCO63174.2024.10715230)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hFOr9nPyWt4C)  [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
 * Conference paper.
 
 ### Ortiz-Toro, C.A., Cerrada-Collado, C., Moreno-Salinas, D., Chaos-García, D., García-Suárez, K.L., Otero, P., Vidal-Pérez, J.M, Luque-Nieto, M.A., Vázquez, A.I, Fraile-Ardanuy, J.J, Negro-Valdecantos, V., Jimenez-Yguacel, E., Aranda-Almansa, J., Zazo-Bello, S., José Zufiria, P. Magdalena, L., Parras, J., L. Gutiérrez, A. (2024, July). NauSim: An open source simulator for underwater drone control, development and deployment. In XLV Jornadas de Automática.
 
-* [DOI](https://doi.org/10.17979/ja-cea.2024.45.10895)  [PDF](../files/2024-ja.pdf) 
+* [DOI](https://doi.org/10.17979/ja-cea.2024.45.10895)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mB3voiENLucC)  [PDF](../files/2024-ja.pdf) 
 * Conference paper.
 
 ### Apellániz, P. A., Jiménez, A., Arroyo Galende, B., Parras, J., & Zazo, S. (2024). Synthetic tabular data validation: a divergence-based approach. IEEE Access. 
