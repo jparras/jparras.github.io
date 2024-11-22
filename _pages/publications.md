@@ -15,14 +15,14 @@ author_profile: true
 * [DOI](https://doi.org/10.3390/app14209296)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hC7cP41nSMkC)  [PDF](../files/2024-applsci.pdf)  [Code](https://github.com/marlahozn/DL_for_vehicle_safety)
 * Journal metrics (2023): IF 2.5, Rank Q1 (75.7 in Engineering, Multidisciplinary) (Note: these values are not yet definitive).
 
-### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd European Signal Processing Conference (EUSIPCO) (pp. 1526-1530). IEEE.
 
-* [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
+* [DOI](https://doi.org/10.23919/EUSIPCO63174.2024.10715431)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:IWHjjKOFINEC)  [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
 * Conference paper.
 
-### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd Eusropean Signal Processing Conference (EUSIPCO).
+### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). An improved tabular data generator with VAE-GMM integration. In 2024 32nd European Signal Processing Conference (EUSIPCO) (pp. 1886-1890). IEEE..
 
-* [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
+* [DOI](https://doi.org/10.23919/EUSIPCO63174.2024.10715230)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:QIV2ME_5wuYC)  [PDF](../files/2024-eusipco-vae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/vae-bgm_data_generator)
 * Conference paper.
 
 ### Ortiz-Toro, C.A., Cerrada-Collado, C., Moreno-Salinas, D., Chaos-García, D., García-Suárez, K.L., Otero, P., Vidal-Pérez, J.M, Luque-Nieto, M.A., Vázquez, A.I, Fraile-Ardanuy, J.J, Negro-Valdecantos, V., Jimenez-Yguacel, E., Aranda-Almansa, J., Zazo-Bello, S., José Zufiria, P. Magdalena, L., Parras, J., L. Gutiérrez, A. (2024, July). NauSim: An open source simulator for underwater drone control, development and deployment. In XLV Jornadas de Automática.
