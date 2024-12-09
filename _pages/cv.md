@@ -17,11 +17,16 @@ redirect_from:
 * Master's Degree in Telecommunications Engineering (2014 - 2016)
     - [Universidad Politécnica de Madrid](https://www.upm.es/)
 
+* Master of Arts in Theology (2023 - Today)
+    - [Kairos](https://kairos.edu/) and [Theologische Seminar Rheinland](https://tsr.de/)
+
 * Bachelor in Telecommunications Engineering (2010-2014)
     - [Universidad de Jaén](https://www.ujaen.es/)
     - Tracks: Telecommunications Systems, Image and Sound
     - Erasmus: one semester in [Tecnische Hochsule Mittelhessen](https://www.thm.de/site/) (Germany)
 
+* Bachelor in Theology (2012-2022)
+    - [Escuela Evangélica de Teología](https://eetfieide.com/)
 
 ## Work experience
 
@@ -45,7 +50,7 @@ redirect_from:
 
 ## Publications
 
-Author of 21 journal papers (14 in Q1, 7 in Q2), 13 conference papers and 1 book chapter. Publications and codes available [here](../publications).
+Author of 21 journal papers (14 in Q1, 7 in Q2), 15 conference papers and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 

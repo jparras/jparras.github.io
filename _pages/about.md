@@ -31,3 +31,4 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
     - CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks, as a conference paper in EUSIPCO.
     - Deep Learning as a new framework for passive vehicle safety design using finite elements models data, in the journal Applied Sciences.
     - Leveraging the variational Bayer autoencoder for survival analysis, in the journal Scientific Reports.
+    - Two poster abstracts, in the 66th ASH Annual Meeting.

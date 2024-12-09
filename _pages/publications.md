@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Asti, G., D'Amico, S., Carota, L., Piscia, D., Casadei, F., Merleau, N. S. C., ... & Alvarez, F. (2024, November). An Artificial Intelligence-Based Federated Learning Platform to Boost Precision Medicine in Rare Hematological Diseases: An Initiative By GenoMed4all and Synthema Consortia. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 4989-4990). Elsevier.
+
+* [DOI](https://doi.org/10.1182/blood-2024-205541)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:HDshCWvjkbEC)  [PDF](../files/2024-ash-geno.pdf)
+* Poster abstract, published in Blood journal.
+
+
+### Gimbert, A. C., Reidel, S., de Apellániz, P. A., Alvarez, F., Galende, B. A., Beneitez, D., ... & del Mar Mañú-Pereira, M. (2024, November). Data Driven Research through the European RADeep Registry and the Use of Artificial Intelligence Towards Personalized Medicine in Sickle Cell Disease. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 1138-1140). Elsevier.
+
+* [DOI](https://doi.org/10.1182/blood-2024-203331)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TQgYirikUcIC)  [PDF](../files/2024-ash-scd.pdf)
+* Poster abstract, published in Blood journal.
+
+
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Leveraging the variational Bayes autoencoder for survival analysis. Scientific Reports.
 
 * [DOI](https://doi.org/10.1038/s41598-024-76047-z)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:-f6ydRqryjwC)  [PDF](../files/2024-savae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
