@@ -32,3 +32,4 @@ For UPM students, if you are interested in applying AI methods to medicine in yo
     - Deep Learning as a new framework for passive vehicle safety design using finite elements models data, in the journal Applied Sciences.
     - Leveraging the variational Bayer autoencoder for survival analysis, in the journal Scientific Reports.
     - Two poster abstracts, in the 66th ASH Annual Meeting.
+    - Survival Model Optimization via Federated Learning: A Study Combining Simulations and Experiments, as a conference paper in 2024 IEEE International Conference on Big Data

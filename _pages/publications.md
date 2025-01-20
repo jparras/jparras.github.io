@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Casadei, F., Carota, L., Asti, G., D’Amico, S., Piscia, D., Zazo, S., ... & Giampieri, E. (2024 December). Survival Model Optimization via Federated Learning: A Study Combining Simulations and Experiments. In 2024 IEEE International Conference on Big Data (BigData) (pp. 7658-7667). IEEE.
+
+* [DOI](https://doi.org/10.1109/BigData62323.2024.10825368 )  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:R3hNpaxXUhUC)
+* Conference paper.
+
+
 ### Asti, G., D'Amico, S., Carota, L., Piscia, D., Casadei, F., Merleau, N. S. C., ... & Alvarez, F. (2024, November). An Artificial Intelligence-Based Federated Learning Platform to Boost Precision Medicine in Rare Hematological Diseases: An Initiative By GenoMed4all and Synthema Consortia. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 4989-4990). Elsevier.
 
 * [DOI](https://doi.org/10.1182/blood-2024-205541)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:HDshCWvjkbEC)  [PDF](../files/2024-ash-geno.pdf)
