@@ -50,7 +50,7 @@ redirect_from:
 
 ## Publications
 
-Author of 21 journal papers (14 in Q1, 7 in Q2), 16 conference papers and 1 book chapter. Publications and codes available [here](../publications).
+Author of 22 journal papers (15 in Q1, 7 in Q2), 16 conference papers and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 
