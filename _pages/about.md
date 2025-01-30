@@ -18,7 +18,6 @@ Finally, you can find more details on my [CV](../cv).
 
 For UPM students, if you are interested in applying AI methods to medicine in your Bachelor or Master thesis, do not hesitate to contact me via email or UPM Teams. If I do not reply within a week, mail again, as your mail may have been marked as spam.
 
-
 ## Latest news
 
 * In 2025, we have [published](../publications):

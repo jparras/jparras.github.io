@@ -50,20 +50,20 @@ redirect_from:
 
 ## Publications
 
-Author of 22 journal papers (15 in Q1, 7 in Q2), 16 conference papers and 1 book chapter. Publications and codes available [here](../publications).
+Author of 22 journal papers (15 in Q1, 7 in Q2), 17 conference papers and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 
 * Courses, check [here](../teaching).
 * Thesis advised:
-    - PhD: 3 (in progress)
+    - PhD: 4 (in progress)
     - Master: 14
     - Bachelor: 1
 
 ## Research projects
 
-* European funding: [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [GENOMED4ALL](https://doi.org/10.3030/101017549).
-* National funding: Nautilus, Herakles, Comonsens Excellence Network (x2), IP-HFDVL, Underworld.
+* European funding: [SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia), [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [GENOMED4ALL](https://doi.org/10.3030/101017549).
+* National funding: Nemo4ex, Nautilus, Herakles, Comonsens Excellence Network (x2), IP-HFDVL, Underworld.
 * Regional funding: MadridDataSpace4Pandemics.
 
 ## Awards

@@ -39,6 +39,10 @@ author_profile: true
 * [DOI](https://doi.org/10.3390/app14209296)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hC7cP41nSMkC)  [PDF](../files/2024-applsci.pdf)  [Code](https://github.com/marlahozn/DL_for_vehicle_safety)
 * Journal metrics (2023): IF 2.5, Rank Q1 (75.7 in Engineering, Multidisciplinary) (Note: these values are not yet definitive).
 
+### Ortiz-Toro, C. A., Cerrada-Collado, C., Moreno-Salinas, D., Chaos-García, D., García-Suárez, K. L., Otero-Roth, P., ... & Gutiérrez, A. (2024, September). Exploring UUV Development with NauSim: An Open-Source Simulation Platform. In 2024 Global Conference on Wireless and Optical Technologies (GCWOT) (pp. 1-7). IEEE. 
+* [DOI](https://doi.org/10.1109/GCWOT63882.2024.10805602 )
+* Conference paper.
+
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024, August). CR-SAVAE: A Parametric Method for Survival Analysis with Competing Risks. In 2024 32nd European Signal Processing Conference (EUSIPCO) (pp. 1526-1530). IEEE.
 
 * [DOI](https://doi.org/10.23919/EUSIPCO63174.2024.10715431)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:IWHjjKOFINEC)  [PDF](../files/2024-eusipco-cr.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/cr-savae)
