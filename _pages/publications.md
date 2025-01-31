@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Improving Synthetic Data Generation Through Federated Learning in Scarce and Heterogeneous Data Scenarios. Big Data and Cognitive Computing.
+### Apellániz, P. A., Parras, J., & Zazo, S. (2025). Improving Synthetic Data Generation Through Federated Learning in Scarce and Heterogeneous Data Scenarios. Big Data and Cognitive Computing.
 
 * [DOI](https://doi.org/10.3390/bdcc9020018)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:e5wmG9Sq2KIC)  [PDF](../files/2025-bdcc.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_vae)
 * Journal metrics (2023): IF 3.7, Rank Q1 (83.0 in Computer Science: Theory and methods) (Note: these values are not yet definitive).
