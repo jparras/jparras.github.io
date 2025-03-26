@@ -63,7 +63,7 @@ Author of 22 journal papers (15 in Q1, 7 in Q2), 17 conference papers and 1 book
 ## Research projects
 
 * European funding: [SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia), [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [GENOMED4ALL](https://doi.org/10.3030/101017549).
-* National funding: Nemo4ex, Nautilus, Herakles, Comonsens Excellence Network (x2), IP-HFDVL, Underworld.
+* National funding: Nemo4ex, Nautilus, Herakles, Comonsens Excellence Network (x3), IP-HFDVL, Underworld.
 * Regional funding: MadridDataSpace4Pandemics.
 
 ## Awards
@@ -73,7 +73,7 @@ Author of 22 journal papers (15 in Q1, 7 in Q2), 17 conference papers and 1 book
 * Defense Security Innovation Brokerage (DSIB) (second position, 2021).
 * Best Master Thesis, Ramón y Zerco del Valle award (winner, 2016).
 * Special Master mention due to academics distintion (winner, 2016). 
-* Best expedient in Bachelos (winner, 2014).
+* Best expedient in Bachelor (winner, 2014).
 * National Physics Olympics (bronze medal, 2010).
 * Regional Physics Olympics (gold medal, 2010).
 * Regional Mathematics Olympics (bronze medal, 2010).
