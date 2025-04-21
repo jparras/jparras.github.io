@@ -23,6 +23,11 @@ author_profile: true
 * Poster abstract, published in Blood journal.
 
 
+### Piscia, D., Apellaniz, P. A., Arroyo, B., Barrio, S., Moreno, F., Parras, J., ... & Beltran, S. (2024, December). GenoMed4All, a federated learning platform for clinical and omics data. In European Journal of Human Genetics, vol. 32, (pp. 1640-1640). Springer.
+
+* [DOI](https://doi.org/10.1038/s41431-024-01734-4)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4JMBOYKVnBMC)
+* Poster abstract, published in European Journal of Human Genetics journal.
+
 ### Gimbert, A. C., Reidel, S., de Apellániz, P. A., Alvarez, F., Galende, B. A., Beneitez, D., ... & del Mar Mañú-Pereira, M. (2024, November). Data Driven Research through the European RADeep Registry and the Use of Artificial Intelligence Towards Personalized Medicine in Sickle Cell Disease. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 1138-1140). Elsevier.
 
 * [DOI](https://doi.org/10.1182/blood-2024-203331)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TQgYirikUcIC)  [PDF](../files/2024-ash-scd.pdf)
