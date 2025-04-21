@@ -17,16 +17,17 @@ author_profile: true
 * Conference paper.
 
 
+### Piscia, D., Apellaniz, P. A., Arroyo, B., Barrio, S., Moreno, F., Parras, J., ... & Beltran, S. (2024, December). GenoMed4All, a federated learning platform for clinical and omics data. In European Journal of Human Genetics, vol. 32, (pp. 1640-1640). Springer.
+
+* [DOI](https://doi.org/10.1038/s41431-024-01734-4)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4JMBOYKVnBMC)
+* Poster abstract, published in European Journal of Human Genetics journal.
+
+
 ### Asti, G., D'Amico, S., Carota, L., Piscia, D., Casadei, F., Merleau, N. S. C., ... & Alvarez, F. (2024, November). An Artificial Intelligence-Based Federated Learning Platform to Boost Precision Medicine in Rare Hematological Diseases: An Initiative By GenoMed4all and Synthema Consortia. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 4989-4990). Elsevier.
 
 * [DOI](https://doi.org/10.1182/blood-2024-205541)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:HDshCWvjkbEC)  [PDF](../files/2024-ash-geno.pdf)
 * Poster abstract, published in Blood journal.
 
-
-### Piscia, D., Apellaniz, P. A., Arroyo, B., Barrio, S., Moreno, F., Parras, J., ... & Beltran, S. (2024, December). GenoMed4All, a federated learning platform for clinical and omics data. In European Journal of Human Genetics, vol. 32, (pp. 1640-1640). Springer.
-
-* [DOI](https://doi.org/10.1038/s41431-024-01734-4)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:4JMBOYKVnBMC)
-* Poster abstract, published in European Journal of Human Genetics journal.
 
 ### Gimbert, A. C., Reidel, S., de Apellániz, P. A., Alvarez, F., Galende, B. A., Beneitez, D., ... & del Mar Mañú-Pereira, M. (2024, November). Data Driven Research through the European RADeep Registry and the Use of Artificial Intelligence Towards Personalized Medicine in Sickle Cell Disease. In 66th ASH Annual Meeting Abstracts, Blood, vol. 144, (pp. 1138-1140). Elsevier.
 
