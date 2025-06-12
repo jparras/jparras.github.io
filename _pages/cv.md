@@ -7,6 +7,19 @@ redirect_from:
   - /resume
 ---
 
+## Summary
+
+Juan Parras holds a Bachelor's Degree in Telecommunication Technologies Engineering from the University of Jaén (2014, GPA 9.59, awarded Best Academic Record), a Master's Degree in Telecommunication Engineering from the Technical University of Madrid (UPM) (2016, GPA 9.11, awarded for Excellent Academic Performance), and a PhD in Telecommunication Technologies and Systems from UPM (2020, Cum Laude, International Mention). Since 2015, he has been employed as a researcher at UPM, and since 2019, he has been a faculty member at UPM, where he is currently an Associate Professor (PCD).
+
+In terms of research, Juan has focused on the broad intersection between optimization (including optimal control theory and game theory) and statistical learning (with a special emphasis on machine learning techniques), with three main application areas: secure communications, autonomous navigation, and medical applications. His research has been supported by several publicly funded projects at regional, national, and European levels. For instance, the National Plan projects NEMO4EX-AI (co-PI), NAUTILUS, HERAKLES, and UNDERWORLD have contributed to the field of communication and autonomous navigation in underwater environments. Regarding medical applications, he has participated in regional projects (such as REACT, where he was PI) and European projects (GENOMED4ALL, SYNTHEMA, REPO4EU, and SYNTHIA, PI of the last three). His research results have been published in internationally recognized venues: to date, Juan has authored 23 peer-reviewed journal articles (16 in Q1 JCR journals, the remaining 7 in Q2 JCR journals), 15 conference papers, 3 poster abstracts and one book chapter.
+
+Juan also plays a significant role in education. Since the 2018–2019 academic year, he has been teaching at UPM and was awarded an "Excellent" rating in the Docentia teaching evaluation in 2023. Additionally, he has mentored numerous young researchers, supervising one Bachelor's thesis and 10 Master's theses, several of which have led to publications in journals or conferences. He has also supervised one PhD thesis and is currently supervising several more (including one funded by an FPI grant).
+
+Regarding awards, Juan has received three distinctions in the General Engineer D. Antonio Remón y Zarco del Valle Awards: first prize for Best Master's Thesis (2016), runner-up for Best Research Article (2021), and one of his Master's students won first prize for Best Master's Thesis (2019). His doctoral thesis also received the award for Best Signal Processing Thesis from the Spanish Chapter of IEEE Communications and Signal Processing.
+
+Finally, Juan is deeply committed to the dissemination and reproducibility of scientific results. His personal website includes all his publications—both journal and conference papers—as well as the code and data necessary to replicate his results.
+
+
 ## Education
 
 * PhD in Telecommunication Engineering (2016 - 2020)
@@ -50,14 +63,15 @@ redirect_from:
 
 ## Publications
 
-Author of 22 journal papers (15 in Q1, 7 in Q2), 15 conference papers, 3 poster abstracts and 1 book chapter. Publications and codes available [here](../publications).
+Author of 23 journal papers (16 in Q1, 7 in Q2), 15 conference papers, 3 poster abstracts and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 
 * Courses, check [here](../teaching).
 * Thesis advised:
-    - PhD: 4 (in progress)
-    - Master: 14
+    - PhD: 1 (several others in progress)
+        + Patricia A. Apellániz (2025): [Deep Generative Models for Survival Analysis and Synthetic Data Generation in Healthcare](https://doi.org/10.20868/UPM.thesis.88681)
+    - Master: 10
     - Bachelor: 1
 
 ## Research projects

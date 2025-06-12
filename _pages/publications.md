@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Arroyo Galende, B., Apellániz, P. A., Parras, J., Zazo, S. & Uribe, S. (2025). Membership Inference Attacks and Differential Privacy: A Study within the context of Generative Models. IEEE Open Journal of the Computer Society.
+* [DOI](https://doi.org/10.1109/OJCS.2025.3572244)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:j3f4tGmQtD8C)  [PDF](../files/2025-mia-ojcs.pdf)  [Code](https://github.com/BorjaArroyo/mia-theoretical-foundations)
+* Journal metrics (2023): IF 5.7, Rank Q1 (89.9 in Computer Science: Theory and Methods, 83.8 in Computer Science: Interdisciplinary Applications, 85.7 in Engineering, Electrical & Electronic) (Note: these values are not yet definitive).
+
+
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2025). Improving Synthetic Data Generation Through Federated Learning in Scarce and Heterogeneous Data Scenarios. Big Data and Cognitive Computing.
 
 * [DOI](https://doi.org/10.3390/bdcc9020018)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:e5wmG9Sq2KIC)  [PDF](../files/2025-bdcc.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_vae)
