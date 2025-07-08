@@ -15,7 +15,7 @@ In terms of research, Juan has focused on the broad intersection between optimiz
 
 Juan also plays a significant role in education. Since the 2018–2019 academic year, he has been teaching at UPM and was awarded an "Excellent" rating in the Docentia teaching evaluation in 2023. Additionally, he has mentored numerous young researchers, supervising one Bachelor's thesis and 10 Master's theses, several of which have led to publications in journals or conferences. He has also supervised one PhD thesis and is currently supervising several more (including one funded by an FPI grant).
 
-Regarding awards, Juan has received three distinctions in the General Engineer D. Antonio Remón y Zarco del Valle Awards: first prize for Best Master's Thesis (2016), runner-up for Best Research Article (2021), and one of his Master's students won first prize for Best Master's Thesis (2019). His doctoral thesis also received the award for Best Signal Processing Thesis from the Spanish Chapter of IEEE Communications and Signal Processing.
+Regarding awards, Juan has received three distinctions in the General Engineer D. Antonio Remón y Zarco del Valle Awards: first prize for Best Master's Thesis (2016), runner-up for Best Research Article (2021), and one of his Master's students won first prize for Best Master's Thesis (2019). His doctoral thesis also received the award for Best Signal Processing Thesis from the Spanish Chapter of IEEE Communications and Signal Processing. He got also an accésit in the Luis Felipe Torrente divulgation award in medicine (2025).
 
 Finally, Juan is deeply committed to the dissemination and reproducibility of scientific results. His personal website includes all his publications—both journal and conference papers—as well as the code and data necessary to replicate his results.
 
@@ -43,10 +43,10 @@ Finally, Juan is deeply committed to the dissemination and reproducibility of sc
 
 ## Work experience
 
-* Professor (Profesor Contratado Doctor, 2023 - Today)
+* Associate Professor (Profesor Contratado Doctor, 2023 - Today)
     - [Universidad Politécnica de Madrid](https://www.upm.es/) (Spain)
 
-* Assistant (Profesor Ayudante Doctor, 2020 - 2023)
+* Assistant Professor (Profesor Ayudante Doctor, 2020 - 2023)
     - [Universidad Politécnica de Madrid](https://www.upm.es/) (Spain)
 
 * Assistant (Ayudante, 2019 - 2020)
@@ -82,6 +82,7 @@ Author of 23 journal papers (16 in Q1, 7 in Q2), 15 conference papers, 3 poster 
 
 ## Awards
 
+* [Divulgation](https://theconversation.com/se-fiaria-del-criterio-de-chatgpt-para-su-diagnostico-medico-por-si-acaso-busque-una-segunda-opinion-260045) award Luis Felipe Torrente on medicine and health, by Lilly Foundation and The Conversation (Premio Luis Felipe Torrente de Divulgación sobre Medicina y Salud, Fundación Lilly y The Conversation, accésit, 2025). 
 * Best PhD Thesis in Signal Processing, awarded by the Spanish Chapter of the IEEE (winner, 2021).
 * Best Research Article, Ramón y Zerco del Valle award (accésit, 2021).
 * Defense Security Innovation Brokerage (DSIB) (second position, 2021).
