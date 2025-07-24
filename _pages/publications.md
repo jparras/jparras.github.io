@@ -7,13 +7,13 @@ author_profile: true
 
 ### Arroyo Galende, B., Apellániz, P. A., Parras, J., Zazo, S. & Uribe, S. (2025). Membership Inference Attacks and Differential Privacy: A Study within the context of Generative Models. IEEE Open Journal of the Computer Society.
 * [DOI](https://doi.org/10.1109/OJCS.2025.3572244)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:j3f4tGmQtD8C)  [PDF](../files/2025-mia-ojcs.pdf)  [Code](https://github.com/BorjaArroyo/mia-theoretical-foundations)
-* Journal metrics (2023): IF 5.7, Rank Q1 (89.9 in Computer Science: Theory and Methods, 83.8 in Computer Science: Interdisciplinary Applications, 85.7 in Engineering, Electrical & Electronic) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 8.2, Rank Q1 (92.9 in Computer Science: Theory and Methods, 91.1 in Computer Science: Interdisciplinary Applications, 92.2 in Engineering, Electrical & Electronic) (Note: these values are not yet definitive).
 
 
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2025). Improving Synthetic Data Generation Through Federated Learning in Scarce and Heterogeneous Data Scenarios. Big Data and Cognitive Computing.
 
 * [DOI](https://doi.org/10.3390/bdcc9020018)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:e5wmG9Sq2KIC)  [PDF](../files/2025-bdcc.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_vae)
-* Journal metrics (2023): IF 3.7, Rank Q1 (83.0 in Computer Science: Theory and methods) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 4.4, Rank Q1 (82.7 in Computer Science: Theory and methods) (Note: these values are not yet definitive).
 
 
 ### Casadei, F., Carota, L., Asti, G., D’Amico, S., Piscia, D., Zazo, S., ... & Giampieri, E. (2024 December). Survival Model Optimization via Federated Learning: A Study Combining Simulations and Experiments. In 2024 IEEE International Conference on Big Data (BigData) (pp. 7658-7667). IEEE.
@@ -43,12 +43,12 @@ author_profile: true
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2024). Leveraging the variational Bayes autoencoder for survival analysis. Scientific Reports.
 
 * [DOI](https://doi.org/10.1038/s41598-024-76047-z)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:-f6ydRqryjwC)  [PDF](../files/2024-savae.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/savae)
-* Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 3.9, Rank Q1 (81.9 in Multidisciplinary Sciences).
 
 ### Lahoz Navarro, M., Jehle, J.S., Apellániz, P. A., Parras, J., Zazo, S., & Gerdts, M. (2024). Deep Learning as a new framework for passive vehicle safety design using finite elements models data. Applied Sciences.
 
 * [DOI](https://doi.org/10.3390/app14209296)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hC7cP41nSMkC)  [PDF](../files/2024-applsci.pdf)  [Code](https://github.com/marlahozn/DL_for_vehicle_safety)
-* Journal metrics (2023): IF 2.5, Rank Q1 (75.7 in Engineering, Multidisciplinary) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 2.5, Rank Q2 (71.7 in Engineering, Multidisciplinary).
 
 ### Ortiz-Toro, C. A., Cerrada-Collado, C., Moreno-Salinas, D., Chaos-García, D., García-Suárez, K. L., Otero-Roth, P., ... & Gutiérrez, A. (2024, September). Exploring UUV Development with NauSim: An Open-Source Simulation Platform. In 2024 Global Conference on Wireless and Optical Technologies (GCWOT) (pp. 1-7). IEEE. 
 * [DOI](https://doi.org/10.1109/GCWOT63882.2024.10805602)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:RHpTSmoSYBkC)  [PDF](../files/2024-gcwot.pdf)
@@ -72,25 +72,25 @@ author_profile: true
 ### Apellániz, P. A., Jiménez, A., Arroyo Galende, B., Parras, J., & Zazo, S. (2024). Synthetic tabular data validation: a divergence-based approach. IEEE Access. 
 
 * [DOI](https://doi.org/10.1109/ACCESS.2024.3434582)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:dhFuZR0502QC)  [PDF](../files/2024-access.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/divergence_estimator)
-* Journal metrics (2023): IF 3.4, Rank Q2 (65.3 in Computer Science, Information Systems, 65.5 in Engineering, Electrical & Electronic, 60.9 in Telecommunications) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 3.6, Rank Q2 (64.1 in Computer Science, Information Systems, 65.2 in Engineering, Electrical & Electronic, 58.8 in Telecommunications).
 
 
 ### Jiménez, A., Merino, M. J., Parras, J., & Zazo, S. (2024). Explainable drug repurposing via path based knowledge graph completion. Scientific Reports.
 
 * [DOI](https://doi.org/10.1038/s41598-024-67163-x)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:mVmsd5A6BfQC)  [PDF](../files/2024-srep.pdf)  [Code](https://github.com/AnaJimBej/XG4Repo)
-* Journal metrics (2023): IF 3.8, Rank Q1 (81.7 in Multidisciplinary Sciences) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 3.9, Rank Q1 (81.9 in Multidisciplinary Sciences).
 
 
 ### Almodóvar, A., Parras, J., & Zazo, S. (2024). Propensity weighted federated learning for treatment effect estimation in distributed imbalanced environments. Computers in Biology and Medicine.
 
 * [DOI](https://doi.org/10.1016/j.compbiomed.2024.108779)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:L8Ckcad2t8MC)  [PDF](../files/2024-cbm.pdf)  [Code](https://github.com/aalmodovares/federated_tedvae)
-* Journal metrics (2023): IF 7.0, Rank Q1 (94.0 in Biology, 89.6 in Computer Science, Interdisciplinary Applications, 87.3 in Engineering, Biomedical, 93.6 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 6.3, Rank Q1 (93.9 in Biology, 85.4 in Computer Science, Interdisciplinary Applications, 82.7 in Engineering, Biomedical, 94.8 in Mathematical & Computational Biology).
 
 
 ### D'Amico, Saverio, et al (2024). MOSAIC: An Artificial Intelligence–Based Framework for Multimodal Analysis, Classification, and Personalized Prognostic Assessment in Rare Cancers. JCO Clinical Cancer Informatics.
 
 * [DOI](https://doi.org/10.1200/CCI.24.00008)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:7PzlFSSx8tAC)  [PDF](../files/2024-jco.pdf)
-* Journal metrics (2023): IF 3.3, Rank Q2 (63.5 in Oncology) (Note: these values are not yet definitive).
+* Journal metrics (2024): IF 2.8, Rank Q2 (51.1 in Oncology).
 
 
 ### Almodóvar, A., Parras, J., & Zazo, S. (2023, October). Federated learning for causal inference using deep generative disentangled models. In 1st Workshop on Deep Generative Models for Health, NeurIPS 2023.
