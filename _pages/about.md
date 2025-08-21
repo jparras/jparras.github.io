@@ -23,3 +23,5 @@ For UPM students, if you are interested in applying AI methods in your Bachelor 
 * In 2025, we have [published](../publications):
     - Improving Synthetic Data Generation Through Federated Learning in Scarce and Heterogeneous Data Scenarios, in the journal Big Data and Cognitive Computing.
     - Membership Inference Attacks and Differential Privacy: A Study within the context of Generative Models in the journal IEEE Open Journal of the Computer Society.
+    - Artificial inductive bias for synthetic tabular data generation in data-scarce scenarios in the journal Neurocomputing.
+    - Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios, in the IEEE Journal of Biomedical and Health Informatics.

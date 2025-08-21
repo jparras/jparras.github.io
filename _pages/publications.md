@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Apellániz, P. A., Arroyo Galende, B., Jiménez, A., Parras, J. & Zazo, S. (2025). Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios. IEEE Journal of Biomedical and Health Informatics.
+* [DOI](https://doi.org/10.1109/JBHI.2025.3595371)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TFP_iSt0sucC)  [Code](https://github.com/Patricia-A-Apellaniz/low_sample_data_generator)
+* Journal metrics (2024): IF 6.8, Rank Q1 (92.1 in Computer Science: Information Systems, 87.1 in Computer Science: Interdisciplinary applications, 96.3 in Mathematical & Computational Biology, 88.5 in Medical Informatics) (Note: these values are not yet definitive).
+
+
+### Apellániz, P. A., Jiménez, A., Arroyo Galende, B., Parras, J. & Zazo, S. (2025). Artificial inductive bias for synthetic tabular data generation in data-scarce scenarios. Neurocomputing.
+* [DOI](https://doi.org/10.1016/j.neucom.2025.131122)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:ZeXyd9-uunAC)  [PDF](../files/2025-neurocom.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/low_sample_data_generator)
+* Journal metrics (2024): IF 6.5, Rank Q1 (82.1 in Computer Science, Artificial Intelligence) (Note: these values are not yet definitive).
+
 ### Arroyo Galende, B., Apellániz, P. A., Parras, J., Zazo, S. & Uribe, S. (2025). Membership Inference Attacks and Differential Privacy: A Study within the context of Generative Models. IEEE Open Journal of the Computer Society.
 * [DOI](https://doi.org/10.1109/OJCS.2025.3572244)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:j3f4tGmQtD8C)  [PDF](../files/2025-mia-ojcs.pdf)  [Code](https://github.com/BorjaArroyo/mia-theoretical-foundations)
 * Journal metrics (2024): IF 8.2, Rank Q1 (92.9 in Computer Science: Theory and Methods, 91.1 in Computer Science: Interdisciplinary Applications, 92.2 in Engineering, Electrical & Electronic) (Note: these values are not yet definitive).
