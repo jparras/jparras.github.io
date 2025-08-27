@@ -25,3 +25,4 @@ For UPM students, if you are interested in applying AI methods in your Bachelor 
     - Membership Inference Attacks and Differential Privacy: A Study within the context of Generative Models in the journal IEEE Open Journal of the Computer Society.
     - Artificial inductive bias for synthetic tabular data generation in data-scarce scenarios in the journal Neurocomputing.
     - Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios, in the IEEE Journal of Biomedical and Health Informatics.
+    - Attentive Neural Processes for Few-Shot Learning Anomaly-Based Vessel Localization Using Magnetic Sensor Data in theJournal of Marine Science and Engineering.

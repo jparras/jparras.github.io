@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Fernández Salvador, L. F., Vilallonga Tejela, B., Almodóvar, A., Parras, J. & Zazo, S. (2025). Attentive Neural Processes for Few-Shot Learning Anomaly-Based Vessel Localization Using Magnetic Sensor Data. Journal of Marine Science and Engineering.
+* [DOI](https://doi.org/10.3390/jmse13091627)  [PDF](../files/2025-jmse.pdf)  [Code](https://github.com/FernandoFS96/tesis/tree/c42b6b10f03a7c8f9f352fe8f8c7cae55069ab5a/magnetic-localization)  
+* Journal metrics (2024): IF 2.8, Rank Q2 (74.0 in Engineering: Marine, 63.9 in Engineering: Ocean, 73.1 in Oceanography) (Note: these values are not yet definitive).
+
+
 ### Apellániz, P. A., Arroyo Galende, B., Jiménez, A., Parras, J. & Zazo, S. (2025). Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios. IEEE Journal of Biomedical and Health Informatics.
 * [DOI](https://doi.org/10.1109/JBHI.2025.3595371)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TFP_iSt0sucC)  [Code](https://github.com/Patricia-A-Apellaniz/low_sample_data_generator)
 * Journal metrics (2024): IF 6.8, Rank Q1 (92.1 in Computer Science: Information Systems, 87.1 in Computer Science: Interdisciplinary applications, 96.3 in Mathematical & Computational Biology, 88.5 in Medical Informatics) (Note: these values are not yet definitive).
