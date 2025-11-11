@@ -82,7 +82,7 @@ Author of 26 journal papers (17 in Q1, 9 in Q2), 15 conference papers, 3 poster 
 
 ## Awards
 
-* [Divulgation](https://theconversation.com/se-fiaria-del-criterio-de-chatgpt-para-su-diagnostico-medico-por-si-acaso-busque-una-segunda-opinion-260045) award Luis Felipe Torrente on medicine and health, by Lilly Foundation and The Conversation (Premio Luis Felipe Torrente de Divulgación sobre Medicina y Salud, Fundación Lilly y The Conversation, accésit, 2025). 
+* [Divulgation](https://doi.org/10.64628/AAO.sg74wnx9a) award Luis Felipe Torrente on medicine and health, by Lilly Foundation and The Conversation (Premio Luis Felipe Torrente de Divulgación sobre Medicina y Salud, Fundación Lilly y The Conversation, accésit, 2025). 
 * Best PhD Thesis in Signal Processing, awarded by the Spanish Chapter of the IEEE (winner, 2021).
 * Best Research Article, Ramón y Zerco del Valle award (accésit, 2021).
 * Defense Security Innovation Brokerage (DSIB) (second position, 2021).
