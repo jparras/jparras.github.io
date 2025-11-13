@@ -25,7 +25,6 @@ Finally, Juan is deeply committed to the dissemination and reproducibility of sc
 * PhD in Telecommunication Engineering (2016 - 2020)
     - [Universidad Politécnica de Madrid](https://www.upm.es/)
     - Program: Communications Technologies and Systems
-    - Research stay at [University of Lincoln](https://www.lincoln.ac.uk/) (United Kingdom)
 
 * Master's Degree in Telecommunications Engineering (2014 - 2016)
     - [Universidad Politécnica de Madrid](https://www.upm.es/)
@@ -79,6 +78,11 @@ Author of 26 journal papers (17 in Q1, 9 in Q2), 15 conference papers, 3 poster 
 * European funding: [SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia), [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [SMAUG](https://doi.org/10.3030/101121129), [GENOMED4ALL](https://doi.org/10.3030/101017549).
 * National funding: Nemo4ex, Nautilus, Herakles, Comonsens Excellence Network (x3), IP-HFDVL, Underworld.
 * Regional funding: MadridDataSpace4Pandemics.
+
+## Research stays
+
+* 2025 - Postdoctoral, 1.5 months, at [Instituto de Cerámica y Vidrio](https://www.icv.csic.es/), [Centro Superior de Investigaciones Científicas](https://www.csic.es/es) (Spain)
+* 2018 - Predoctoral, 3.5 months, at [Lincoln Centre for Autonomous Systems](https://lcas.lincoln.ac.uk/wp/), [University of Lincoln](https://www.lincoln.ac.uk/) (United Kingdom)
 
 ## Awards
 
