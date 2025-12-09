@@ -26,4 +26,5 @@ For UPM students, if you are interested in applying AI methods in your Bachelor 
     - Artificial inductive bias for synthetic tabular data generation in data-scarce scenarios in the journal Neurocomputing.
     - Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios, in the IEEE Journal of Biomedical and Health Informatics.
     - Attentive Neural Processes for Few-Shot Learning Anomaly-Based Vessel Localization Using Magnetic Sensor Data in theJournal of Marine Science and Engineering.
+    -  Development and validation of synthetic data generation over a federated learning computing framework to accelerate innovation and boost personalized medicine in hematological diseases, as a poster abstract in Blood journal.
 * We also got accepted the paper *DeCaFlow: A Deconfounding Causal Generative Model* as a Spotlight paper at NeurIPS 2025; you can check the camera-ready paper [here](https://arxiv.org/abs/2503.15114) and its code [here](https://github.com/aalmodovares/DeCaFlow).

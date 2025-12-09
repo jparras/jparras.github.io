@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Asti, G., Delleani, M., Apellaniz, P., Isasa, I., Duarte, D. M., Galende, B. A., ... & Della Porta, M. (2025 November). Development and validation of synthetic data generation over a federated learning computing framework to accelerate innovation and boost personalized medicine in hematological diseases. In 67th ASH Annual Meeting Abstracts, Blood, vol. 146, (pp. 4350-4351). Elsevier.
+
+* [DOI](https://doi.org/10.1182/blood-2025-4350 )  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:blknAaTinKkC)  [PDF](../files/2025-ash-platform.pdf)
+* Poster abstract, published in Blood journal.
+
+
 ### Fernández Salvador, L. F., Vilallonga Tejela, B., Almodóvar, A., Parras, J. & Zazo, S. (2025). Attentive Neural Processes for Few-Shot Learning Anomaly-Based Vessel Localization Using Magnetic Sensor Data. Journal of Marine Science and Engineering.
 * [DOI](https://doi.org/10.3390/jmse13091627)  [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:k_IJM867U9cC)  [PDF](../files/2025-jmse.pdf)  [Code](https://github.com/FernandoFS96/tesis/tree/c42b6b10f03a7c8f9f352fe8f8c7cae55069ab5a/magnetic-localization)  
 * Journal metrics (2024): IF 2.8, Rank Q2 (74.0 in Engineering: Marine, 63.9 in Engineering: Ocean, 73.1 in Oceanography) (Note: these values are not yet definitive).
