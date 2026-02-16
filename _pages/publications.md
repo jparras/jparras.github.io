@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Carota, L., Casadei, F., Asti, G., Piscia, D., Biondi, R., Sala, C., ... & Castellani, G. (2026 February). Optimizing AI models for haematological malignancies with federated learning: simulations and experiments. In 13º Congresso Nazionale AIFM, Physica Medica: European Journal of Medical Physics, 142 (pp.130-131). Elsevier.
+* [DOI](https://doi.org/10.1016/j.ejmp.2025.105540)  [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hMod-77fHWUC)  [PDF](../files/2026-physica.pdf)
+* Poster abstract, published in Physica Medica journal.
+
+
+### Almodóvar, A., Javaloy, A., Parras, J., Zazo, S., & Valera, I. (2025, December). DeCaFlow: A deconfounding causal generative model. In Neural Information Processing Systems 2025 (NeurIPS 2025).
+
+* [DOI](https://neurips.cc/virtual/2025/loc/san-diego/poster/116213)  [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:_Qo2XoVZTnwC) [PDF](../files/2025-decaflow.pdf)  [Code](https://github.com/aalmodovares/DeCaFlow)
+* Conference paper, Spotlight.
+
+
 ### Asti, G., Delleani, M., Apellaniz, P., Isasa, I., Duarte, D. M., Galende, B. A., ... & Della Porta, M. (2025 November). Development and validation of synthetic data generation over a federated learning computing framework to accelerate innovation and boost personalized medicine in hematological diseases. In 67th ASH Annual Meeting Abstracts, Blood, vol. 146, (pp. 4350-4351). Elsevier.
 
 * [DOI](https://doi.org/10.1182/blood-2025-4350 )  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:blknAaTinKkC)  [PDF](../files/2025-ash-platform.pdf)
