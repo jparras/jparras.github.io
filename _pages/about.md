@@ -22,3 +22,4 @@ For UPM students, if you are interested in applying AI methods in your Bachelor 
 
 * In 2026, we have [published](../publications):
     - Optimizing AI models for haematological malignancies with federated learning: simulations and experiments, as a poster abstract in Physica Medica journal.
+    - Enhancing survival analysis through federated learning in non-IID and scarce data scenarios, in the journal Computers in Biology and Medicine.

@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Apellániz, P. A., Parras, J., & Zazo, S. (2026). Enhancing survival analysis through federated learning in non-IID and scarce data scenarios. Computers in Biology and Medicine.
+* [DOI](https://doi.org/10.1016/j.compbiomed.2026.111558 ) [PDF](../files/2026-cbm.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_savae)  
+* Journal metrics (2024): IF 6.3, Rank Q1 (93.9 in Biology, 85.6 in Computer Science: Interdisciplinary applications, 82.7 in Engineering: Biomedical, 94.8 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
+
+
 ### Carota, L., Casadei, F., Asti, G., Piscia, D., Biondi, R., Sala, C., ... & Castellani, G. (2026 February). Optimizing AI models for haematological malignancies with federated learning: simulations and experiments. In 13º Congresso Nazionale AIFM, Physica Medica: European Journal of Medical Physics, 142 (pp.130-131). Elsevier.
 * [DOI](https://doi.org/10.1016/j.ejmp.2025.105540)  [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:hMod-77fHWUC)  [PDF](../files/2026-physica.pdf)
 * Poster abstract, published in Physica Medica journal.

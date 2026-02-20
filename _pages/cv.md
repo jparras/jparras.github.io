@@ -11,7 +11,7 @@ redirect_from:
 
 Juan Parras holds a Bachelor's Degree in Telecommunication Technologies Engineering from the University of Jaén (2014, GPA 9.59, awarded Best Academic Record), a Master's Degree in Telecommunication Engineering from the Technical University of Madrid (UPM) (2016, GPA 9.11, awarded for Excellent Academic Performance), and a PhD in Telecommunication Technologies and Systems from UPM (2020, Cum Laude, International Mention). Since 2015, he has been employed as a researcher at UPM, and since 2019, he has been a faculty member at UPM, where he is currently an Associate Professor (PCD).
 
-In terms of research, Juan has focused on the broad intersection between optimization (including optimal control theory and game theory) and statistical learning (with a special emphasis on machine learning techniques), with three main application areas: secure communications, autonomous navigation, and medical applications. His research has been supported by several publicly funded projects at regional, national, and European levels. For instance, the European project SMAUG and the National Plan projects NEMO4EX-AI (co-PI), NAUTILUS, HERAKLES, and UNDERWORLD have contributed to the field of communication and autonomous navigation in underwater environments. Regarding medical applications, he has participated in regional projects (such as REACT, where he was PI) and European projects (GENOMED4ALL, SYNTHEMA, REPO4EU, and SYNTHIA, PI of the last three). His research results have been published in internationally recognized venues: to date, Juan has authored 26 peer-reviewed journal articles (17 in Q1 JCR journals, the remaining 9 in Q2 JCR journals), 16 conference papers, 5 poster abstracts and one book chapter.
+In terms of research, Juan has focused on the broad intersection between optimization (including optimal control theory and game theory) and statistical learning (with a special emphasis on machine learning techniques), with three main application areas: secure communications, autonomous navigation, and medical applications. His research has been supported by several publicly funded projects at regional, national, and European levels. For instance, the European project SMAUG and the National Plan projects NEMO4EX-AI (co-PI), NAUTILUS, HERAKLES, and UNDERWORLD have contributed to the field of communication and autonomous navigation in underwater environments. Regarding medical applications, he has participated in regional projects (such as REACT, where he was PI) and European projects (GENOMED4ALL, SYNTHEMA, REPO4EU, and SYNTHIA, PI of the last three). His research results have been published in internationally recognized venues: to date, Juan has authored 27 peer-reviewed journal articles (18 in Q1 JCR journals, the remaining 9 in Q2 JCR journals), 16 conference papers, 5 poster abstracts and one book chapter.
 
 Juan also plays a significant role in education. Since the 2018–2019 academic year, he has been teaching at UPM and was awarded an "Excellent" rating in the Docentia teaching evaluation in 2023. Additionally, he has mentored numerous young researchers, supervising one Bachelor's thesis and 10 Master's theses, several of which have led to publications in journals or conferences. He has also supervised one PhD thesis and is currently supervising several more (including one funded by an FPI grant).
 
@@ -62,7 +62,7 @@ Finally, Juan is deeply committed to the dissemination and reproducibility of sc
 
 ## Publications
 
-Author of 26 journal papers (17 in Q1, 9 in Q2), 16 conference papers, 5 poster abstracts and 1 book chapter. Publications and codes available [here](../publications).
+Author of 27 journal papers (18 in Q1, 9 in Q2), 16 conference papers, 5 poster abstracts and 1 book chapter. Publications and codes available [here](../publications).
 
 ## Teaching
 
@@ -78,6 +78,7 @@ Author of 26 journal papers (17 in Q1, 9 in Q2), 16 conference papers, 5 poster 
 * European funding: [SYNTHIA](https://www.ihi.europa.eu/projects-results/project-factsheets/synthia), [REPO4EU](https://doi.org/10.3030/101057619), [SYNTHEMA](https://doi.org/10.3030/101095530), [SMAUG](https://doi.org/10.3030/101121129), [GENOMED4ALL](https://doi.org/10.3030/101017549).
 * National funding: [Nemo4ex](https://www.robolabo.etsit.upm.es/projects/nemo/), Nautilus, Herakles, Comonsens Excellence Network (x3), IP-HFDVL, Underworld.
 * Regional funding: MadridDataSpace4Pandemics.
+* Others: [NEVORA](https://sites.google.com/view/nevora/nevora-home)
 
 ## Research stays
 
