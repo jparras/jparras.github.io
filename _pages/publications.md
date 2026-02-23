@@ -21,6 +21,12 @@ author_profile: true
 * Conference paper, Spotlight.
 
 
+### Carota, L., Casadei, F., Asti, G., Piscia, D., Apellániz, P. A., D’Amico, S., ... & Giampieri, E. (2025, October). Experimenting Federated AI Models for Hematological Diseases. In International Workshop on Artificial Intelligence for Biomedical Data (pp. 17-30). Springer Nature Switzerland.
+
+* [DOI](https://doi.org/10.1007/978-3-032-17216-7 ) 
+* Conference paper.
+
+
 ### Asti, G., Delleani, M., Apellaniz, P., Isasa, I., Duarte, D. M., Galende, B. A., ... & Della Porta, M. (2025 November). Development and validation of synthetic data generation over a federated learning computing framework to accelerate innovation and boost personalized medicine in hematological diseases. In 67th ASH Annual Meeting Abstracts, Blood, vol. 146, (pp. 4350-4351). Elsevier.
 
 * [DOI](https://doi.org/10.1182/blood-2025-4350 )  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:blknAaTinKkC)  [PDF](../files/2025-ash-platform.pdf)
