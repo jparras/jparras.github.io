@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Apellániz, P. A., Parras, J., & Zazo, S. (2026). Enhancing survival analysis through federated learning in non-IID and scarce data scenarios. Computers in Biology and Medicine.
-* [DOI](https://doi.org/10.1016/j.compbiomed.2026.111558 ) [PDF](../files/2026-cbm.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_savae)  
+* [DOI](https://doi.org/10.1016/j.compbiomed.2026.111558 ) [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:BqipwSGYUEgC)  [PDF](../files/2026-cbm.pdf)  [Code](https://github.com/Patricia-A-Apellaniz/fed_savae)  
 * Journal metrics (2024): IF 6.3, Rank Q1 (93.9 in Biology, 85.6 in Computer Science: Interdisciplinary applications, 82.7 in Engineering: Biomedical, 94.8 in Mathematical & Computational Biology) (Note: these values are not yet definitive).
 
 
@@ -23,7 +23,7 @@ author_profile: true
 
 ### Carota, L., Casadei, F., Asti, G., Piscia, D., Apellániz, P. A., D’Amico, S., ... & Giampieri, E. (2025, October). Experimenting Federated AI Models for Hematological Diseases. In International Workshop on Artificial Intelligence for Biomedical Data (pp. 17-30). Springer Nature Switzerland.
 
-* [DOI](https://doi.org/10.1007/978-3-032-17216-7 ) 
+* [DOI](https://doi.org/10.1007/978-3-032-17216-7_2)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:NMxIlDl6LWMC)
 * Conference paper.
 
 
