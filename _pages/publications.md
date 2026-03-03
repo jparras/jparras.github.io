@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Fernández Salvador, F., Parras, J., & Zazo, S. (2026). Attentive Neural Processes for Fast Trajectory Prediction in Underwater Acoustic Networks. IEEE Journal of Oceanic Engineering. 
-* [DOI](https://doi.org/10.1109/JOE.2025.3647846)  [PDF](../files/2026-joe.pdf)  [Code](https://github.com/FernandoFS96/tesis/tree/c42b6b10f03a7c8f9f352fe8f8c7cae55069ab5a/underwater-localization)  
+* [DOI](https://doi.org/10.1109/JOE.2025.3647846)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:GnPB-g6toBAC)  [PDF](../files/2026-joe.pdf)  [Code](https://github.com/FernandoFS96/tesis/tree/c42b6b10f03a7c8f9f352fe8f8c7cae55069ab5a/underwater-localization)  
 * Journal metrics (2024): IF 5.3, Rank Q1 (87.8 in Engineering: Civil, 81.1 in Engineering: Electrical & electronic, 86.1 in Engineering: Ocean, 94.6 in Oceanography) (Note: these values are not yet definitive).
 
 
