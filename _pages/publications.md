@@ -44,7 +44,7 @@ author_profile: true
 
 
 ### Apellániz, P. A., Arroyo Galende, B., Jiménez, A., Parras, J. & Zazo, S. (2025). Advancing Cancer Research with Synthetic Data Generation in Low-Data Scenarios. IEEE Journal of Biomedical and Health Informatics.
-* [DOI](https://doi.org/10.1109/JBHI.2025.3595371)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TFP_iSt0sucC)  [Code](https://github.com/Patricia-A-Apellaniz/low_sample_data_generator)
+* [DOI](https://doi.org/10.1109/JBHI.2025.3595371)  [Scholar](https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TFP_iSt0sucC)  [Code](https://github.com/Patricia-A-Apellaniz/medical_low_sample_generator)
 * Journal metrics (2024): IF 6.8, Rank Q1 (92.1 in Computer Science: Information Systems, 87.1 in Computer Science: Interdisciplinary applications, 96.3 in Mathematical & Computational Biology, 88.5 in Medical Informatics) (Note: these values are not yet definitive).
 
 
