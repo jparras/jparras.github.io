@@ -493,70 +493,81 @@ author_profile: true
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const entries = document.querySelectorAll('.pub-entry');
-  const searchInput = document.getElementById('search-input');
-  const countEl = document.getElementById('pub-count');
-
-  let activeFilters = { year: 'all', type: 'all', q: 'all' };
+  var entries = document.querySelectorAll('.pub-entry');
+  var searchInput = document.getElementById('search-input');
+  var countEl = document.getElementById('pub-count');
+  var activeFilters = { year: 'all', type: 'all', q: 'all' };
 
   function updateCount() {
-    const visible = document.querySelectorAll('.pub-entry:not(.hidden)').length;
-    const total = entries.length;
-    countEl.textContent = `Showing ${visible} of ${total} publications`;
+    var visible = document.querySelectorAll('.pub-entry:not(.hidden)').length;
+    var total = entries.length;
+    countEl.textContent = 'Showing ' + visible + ' of ' + total + ' publications';
   }
 
   function applyFilters() {
-    const searchTerm = searchInput.value.toLowerCase();
-
-    entries.forEach(entry => {
-      const year = entry.getAttribute('data-year');
-      const type = entry.getAttribute('data-type'); 
-      const q = entry.getAttribute('data-q') || '';
-      const text = entry.textContent.toLowerCase();
-
-      const matchYear = activeFilters.year === 'all' || year === activeFilters.year;
-      const matchType = activeFilters.type === 'all' || type === activeFilters.type;
-      const matchQ = activeFilters.q === 'all' || q === activeFilters.q;
-      const matchSearch = !searchTerm || text.includes(searchTerm);
-
-      entry.classList.toggle('hidden', !(matchYear && matchType && matchQ && matchSearch));
+    var searchTerm = searchInput.value.toLowerCase();
+    entries.forEach(function(entry) {
+      var year = entry.getAttribute('data-year');
+      var type = entry.getAttribute('data-type');
+      var q = entry.getAttribute('data-q') || '';
+      var text = entry.textContent.toLowerCase();
+      var matchYear = activeFilters.year === 'all' || year === activeFilters.year;
+      var matchType = activeFilters.type === 'all' || type === activeFilters.type;
+      var matchQ = activeFilters.q === 'all' || q === activeFilters.q;
+      var matchSearch = !searchTerm || text.includes(searchTerm);
+      if (matchYear && matchType && matchQ && matchSearch) { entry.classList.remove('hidden'); } else { entry.classList.add('hidden'); }
     });
-
     updateCount();
   }
 
-  // Year filter buttons
-  document.querySelectorAll('[data-filter-year]').forEach(btn => {
+  /* Year filter buttons */
+  document.querySelectorAll('[data-filter-year]').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      document.querySelectorAll('[data-filter-year]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('[data-filter-year]').forEach(function(b) { b.classList.remove('active'); });
       this.classList.add('active');
-      activeFilters.year = this.dataset.filterYear;
+      activeFilters.year = this.getAttribute('data-filter-year');
       applyFilters();
     });
   });
 
-  // Type filter buttons
-  document.querySelectorAll('[data-filter-type]').forEach(btn => {
+  /* Type filter buttons */
+  document.querySelectorAll('[data-filter-type]').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      document.querySelectorAll('[data-filter-type]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('[data-filter-type]').forEach(function(b) { b.classList.remove('active'); });
       this.classList.add('active');
-      activeFilters.type = this.dataset.filterType;
+      activeFilters.type = this.getAttribute('data-filter-type');
       applyFilters();
     });
   });
 
-  // Q filter buttons
-  document.querySelectorAll('[data-filter-q]').forEach(btn => {
+  /* Q filter buttons */
+  document.querySelectorAll('[data-filter-q]').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      document.querySelectorAll('[data-filter-q]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('[data-filter-q]').forEach(function(b) { b.classList.remove('active'); });
       this.classList.add('active');
-      activeFilters.q = this.dataset.filterQ;
+      activeFilters.q = this.getAttribute('data-filter-q');
       applyFilters();
     });
   });
 
-  // Search input
+  /* Search input */
   searchInput.addEventListener('input', applyFilters);
+
+  /* BibTeX modal */
+  var modal = document.getElementById('bibtex-modal');
+  var modalContent = document.getElementById('bibtex-modal-content');
+  var modalClose = document.getElementById('bibtex-modal-close');
+  var modalCopy = document.getElementById('bibtex-modal-copy');
+
+  if (modal && modalClose) {
+    modalClose.addEventListener('click', function() { modal.style.display = 'none'; });
+    modal.addEventListener('click', function(e) { if (e.target === modal) { modal.style.display = 'none'; } });
+  }
+  if (modalCopy && modalContent) {
+    modalCopy.addEventListener('click', function() {
+      navigator.clipboard.writeText(modalContent.textContent).then(function() { modalCopy.textContent = 'Copied!'; setTimeout(function() { modalCopy.textContent = '📋 Copy to clipboard'; }, 2000); });
+    });
+  }
 
   updateCount();
 });
