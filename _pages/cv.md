@@ -29,7 +29,7 @@ Finally, Juan is deeply committed to the dissemination and reproducibility of sc
 * Master's Degree in Telecommunications Engineering (2014 - 2016)
     - [Universidad Politécnica de Madrid](https://www.upm.es/)
 
-* Master of Arts in Theology (2023 - Today)
+* Master of Arts in Theology (2023 - 2026)
     - [Kairos](https://kairos.edu/) and [Theologische Seminar Rheinland](https://tsr.de/)
 
 * Bachelor in Telecommunications Engineering (2010-2014)
