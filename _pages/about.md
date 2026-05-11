@@ -24,3 +24,4 @@ For UPM students, if you are interested in applying AI methods in your Bachelor 
     - Optimizing AI models for haematological malignancies with federated learning: simulations and experiments, as a poster abstract in Physica Medica journal.
     - Enhancing survival analysis through federated learning in non-IID and scarce data scenarios, in the journal Computers in Biology and Medicine.
     - Attentive neural processes for fast trajectory prediction in underwater acoustic newtorks, in the journal IEEE of Oceanic Engineering.
+    - Real‐Time, Interpretable Diagnostics for Solid‐State Batteries via Machine Learning on In Situ Impedance Spectra, in the journal Battery Energy.

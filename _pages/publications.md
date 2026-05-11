@@ -64,6 +64,13 @@ author_profile: true
 <hr>
 
 
+<div class="pub-entry" data-year="2026" data-type="journal" data-q="q1" markdown="1">
+<h3>Warren, Z., Cuasquer, F., Sánchez, R., Apellániz, P. A., Almodóvar, A., Parras, J., & Rosero-Navarro, C. (2026) Real-Time, Interpretable Diagnostics for Solid-State Batteries via Machine Learning on In Situ Impedance Spectra. Battery Energy</h3>
+
+* [DOI](https://doi.org/10.1002/bte2.70122)  [PDF](../files/2026-be.pdf) 
+* Journal metrics (2024): IF 9.9, Rank Q1 (89.8 in Electrochemistry, 87.1 in Energy & Fuels, 87.3 in Materials Science: Multidisciplinary) (Note: these values are not yet definitive).
+
+</div>
 
 <div class="pub-entry" data-year="2026" data-type="journal" data-q="q1" markdown="1">
 <h3>Fernández Salvador, F., Parras, J., & Zazo, S. (2026). Attentive Neural Processes for Fast Trajectory Prediction in Underwater Acoustic Networks. IEEE Journal of Oceanic Engineering.</h3>
