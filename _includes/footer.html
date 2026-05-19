@@ -1,24 +1,43 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
+<style>
+.footer-logo-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  padding: 1.2rem 0 0.8rem;
+}
+.footer-logo-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+}
+.footer-logo-item img {
+  height: 32px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+.footer-logo-item:hover img { opacity: 1; }
+.footer-logo-item.logo-iptc {
+  background: #0d2b5e;
+  padding: 0.4rem 0.65rem;
+}
+</style>
+
+<div class="footer-logo-strip">
+  <div class="footer-logo-item"><a href="https://www.gaps.ssr.upm.es/" target="_blank" rel="noopener"><img src="/images/logo_gaps.png" alt="GAPS"></a></div>
+  <div class="footer-logo-item"><a href="https://www.ssr.upm.es/" target="_blank" rel="noopener"><img src="/images/logo_ssr.png" alt="SSR"></a></div>
+  <div class="footer-logo-item"><a href="https://www.etsit.upm.es/" target="_blank" rel="noopener"><img src="/images/logo_etsit.png" alt="ETSIT"></a></div>
+  <div class="footer-logo-item"><a href="https://www.upm.es/" target="_blank" rel="noopener"><img src="/images/logo_upm.png" alt="UPM"></a></div>
+  <div class="footer-logo-item logo-iptc"><a href="https://iptc.upm.es/" target="_blank" rel="noopener"><img src="/images/logo_iptc.png" alt="IPTC"></a></div>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>

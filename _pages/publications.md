@@ -13,6 +13,7 @@ author_profile: true
 {% assign posters     = all_pubs  | where: "type", "poster" %}
 {% assign books       = all_pubs  | where: "type", "book" %}
 {% assign years       = all_pubs  | map: "year" | uniq | sort | reverse %}
+{% assign metrics = site.data.metrics %}
 
 {% assign code_count = 0 %}
 {% for pub in all_pubs %}{% if pub.code %}{% assign code_count = code_count | plus: 1 %}{% endif %}{% endfor %}
@@ -332,12 +333,12 @@ author_profile: true
     <span class="metric-label">Q1 Journals</span>
   </div>
   <div class="metric-item">
-    <span class="metric-number">{{ conferences | size }}</span>
-    <span class="metric-label">Conferences</span>
-  </div>
-  <div class="metric-item">
-    <span class="metric-number">{{ code_count }}</span>
-    <span class="metric-label">With Code</span>
+    <span class="metric-number">{{ metrics.citations }}</span>
+    <span class="metric-label">Citations</span>
+  </div>  
+<div class="metric-item">
+    <span class="metric-number">{{ metrics.h_index }}</span>
+    <span class="metric-label">H-index</span>
   </div>
 </div>
 

@@ -21,6 +21,18 @@
 # =============================================================================
 
 # ── 2026 ─────────────────────────────────────────────────────────────────────
+- title: "The Geometry of Privacy: A Two-Stage Analysis of Generative Membership Inference in Federated Learning"
+  authors: "1.	Arroyo Galende, B., Apellániz, P. A., Almodóvar, A., Uribe, S., Álvarez, F., & Parras, J."
+  year: 2026
+  type: journal
+  quartile: Q1
+  journal: "Big Data and Cognitive Computing"
+  impact_factor: 4.4
+  metrics_year: 2024
+  metrics_detail: "IF 4.4, Rank Q1 (82.7 in Computer Science: Theory and methods)"
+  doi: "https://doi.org/10.3390/bdcc10050163"
+  pdf: "../files/2026-bdcc.pdf"
+  code: "https://github.com/BorjaArroyo/mia-fl"
 
 - title: "Real-Time, Interpretable Diagnostics for Solid-State Batteries via Machine Learning on In Situ Impedance Spectra"
   authors: "Warren, Z., Cuasquer, F., Sánchez, R., Apellániz, P. A., Almodóvar, A., Parras, J., & Rosero-Navarro, C."

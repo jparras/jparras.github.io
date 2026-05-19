@@ -1,0 +1,85 @@
+# =============================================================================
+# teaching.yml — Single source of truth for all teaching activity
+# =============================================================================
+# Fields:
+#   name        : Course name (required)
+#   degree      : Full name of the degree programme (required)
+#   degree_url  : URL to the degree programme page
+#   university  : Institution (default: UPM)
+#   level       : undergraduate | graduate
+#   language    : Spanish | English
+#   year_start  : First year taught, integer (required)
+#   year_end    : Last year taught, integer — omit or set to null if ongoing
+#   active      : true | false  (true = currently teaching)
+#   description : Optional short description of the course content
+# =============================================================================
+
+- name: "Señales Aleatorias"
+  degree: "Grado en Ingeniería de Tecnologías y Sistemas de Telecomunicación"
+  degree_url: "https://www.etsit.upm.es/estudios/grado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion.html"
+  university: "Universidad Politécnica de Madrid"
+  level: undergraduate
+  language: Spanish
+  year_start: 2020
+  year_end: null
+  active: true
+
+- name: "Reinforcement Learning"
+  degree: "Master's Degree in Signal Theory and Communications"
+  degree_url: "https://ssr.upm.es/mutsc/"
+  university: "Universidad Politécnica de Madrid"
+  level: graduate
+  language: English
+  year_start: 2018
+  year_end: null
+  active: true
+
+- name: "Procesado Avanzado de Señales y Datos"
+  degree: "Grado en Ingeniería y Sistemas de Datos"
+  degree_url: "https://www.etsit.upm.es/estudios/grado-en-ingenieria-y-sistemas-de-datos.html"
+  university: "Universidad Politécnica de Madrid"
+  level: undergraduate
+  language: Spanish
+  year_start: 2023
+  year_end: null
+  active: true
+
+- name: "Optimization Techniques for Big Data Analysis"
+  degree: "Master's Degree in Signal Theory and Communications"
+  degree_url: "https://ssr.upm.es/mutsc/"
+  university: "Universidad Politécnica de Madrid"
+  level: graduate
+  language: English
+  year_start: 2019
+  year_end: 2023
+  active: false
+
+- name: "Application Projects"
+  degree: "Master's Degree in Signal Theory and Communications"
+  degree_url: "https://ssr.upm.es/mutsc/"
+  university: "Universidad Politécnica de Madrid"
+  level: graduate
+  language: English
+  year_start: 2020
+  year_end: 2023
+  active: false
+
+- name: "Equipos y Sistemas Audiovisuales"
+  degree: "Grado en Ingeniería de Tecnologías y Sistemas de Telecomunicación"
+  degree_url: "https://www.etsit.upm.es/estudios/grado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion.html"
+  university: "Universidad Politécnica de Madrid"
+  level: undergraduate
+  language: Spanish
+  year_start: 2019
+  year_end: 2021
+  active: false
+
+- name: "Producción Multimedia"
+  degree: "Grado en Ingeniería de Tecnologías y Sistemas de Telecomunicación"
+  degree_url: "https://www.etsit.upm.es/estudios/grado-en-ingenieria-de-tecnologias-y-servicios-de-telecomunicacion.html"
+  university: "Universidad Politécnica de Madrid"
+  level: undergraduate
+  language: Spanish
+  year_start: 2018
+  year_end: 2020
+  active: false
