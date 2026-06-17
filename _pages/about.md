@@ -449,6 +449,41 @@ redirect_from:
   <a class="section-cta" href="../publications">Browse full publication list →</a>
 </div>
 
+{% assign media_items = site.data.media | default: empty %}
+{% assign media_count = media_items | size %}
+
+{% if media_count > 0 %}
+<div class="about-section">
+  <div class="about-section-header">
+    <span class="about-section-title">In the Media</span>
+    <div class="about-section-line"></div>
+  </div>
+
+  <div class="pub-list">
+    {% assign sorted_media = media_items | sort: "year" | reverse %}
+    {% for item in sorted_media %}
+    <div class="pub-item">
+      <div class="pub-year">{{ item.year }}</div>
+      <div>
+        <p class="pub-title">
+          {% if item.url %}
+          <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+          {% else %}
+          {{ item.title }}
+          {% endif %}
+        </p>
+        <div class="pub-meta">
+          {{ item.outlet }}
+          {% if item.kind %} · {{ item.kind }}{% endif %}
+          {% if item.topic %} · {{ item.topic }}{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 <div class="about-section">
   <div class="about-section-header">
     <span class="about-section-title">Explore</span>

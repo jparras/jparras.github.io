@@ -434,7 +434,7 @@ author_profile: true
       </p>
 
       {% if pub.impact_factor %}
-      <p class="pub-if">IF {{ pub.impact_factor }} · {{ pub.metrics_detail }}</p>
+      <p class="pub-if">{{ pub.metrics_detail }}</p>
       {% endif %}
 
       <div class="pub-links">

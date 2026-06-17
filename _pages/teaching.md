@@ -332,6 +332,26 @@ author_profile: true
     </div>
   </div>
 
+  <div class="teach-list" style="margin-bottom: 1.8rem;">
+    {% assign sorted_master = master_theses | sort: "year" | reverse %}
+    {% for thesis in sorted_master %}
+    <div class="teach-card">
+      <div class="teach-year">{{ thesis.year }}</div>
+      <div>
+        <p class="teach-title">
+          {% if thesis.url %}<a href="{{ thesis.url }}" target="_blank" rel="noopener">{{ thesis.title }}</a>
+          {% else %}{{ thesis.title }}{% endif %}
+        </p>
+        <div class="badge-row">
+          <span class="badge badge-grad">Master</span>
+          {% if thesis.led_to_pub %}<span class="badge badge-active">Led to publication</span>{% endif %}
+          {% if thesis.note %}<span class="badge badge-note">{{ thesis.note }}</span>{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
   {% assign led_to_pub_b = 0 %}
   {% for t in bachelor_theses %}{% if t.led_to_pub %}{% assign led_to_pub_b = led_to_pub_b | plus: 1 %}{% endif %}{% endfor %}
 
@@ -352,6 +372,27 @@ author_profile: true
       <span class="thesis-stats-label">Awarded</span>
     </div>
   </div>
+
+  <div class="teach-list">
+    {% assign sorted_bachelor = bachelor_theses | sort: "year" | reverse %}
+    {% for thesis in sorted_bachelor %}
+    <div class="teach-card">
+      <div class="teach-year">{{ thesis.year }}</div>
+      <div>
+        <p class="teach-title">
+          {% if thesis.url %}<a href="{{ thesis.url }}" target="_blank" rel="noopener">{{ thesis.title }}</a>
+          {% else %}{{ thesis.title }}{% endif %}
+        </p>
+        <div class="badge-row">
+          <span class="badge badge-undergrad">Bachelor</span>
+          {% if thesis.led_to_pub %}<span class="badge badge-active">Led to publication</span>{% endif %}
+          {% if thesis.note %}<span class="badge badge-note">{{ thesis.note }}</span>{% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
 </div>
 
 </div><!-- /.teach-page -->

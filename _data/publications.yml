@@ -27,9 +27,9 @@
   type: journal
   quartile: Q1
   journal: "Big Data and Cognitive Computing"
-  impact_factor: 4.4
-  metrics_year: 2024
-  metrics_detail: "IF 4.4, Rank Q1 (82.7 in Computer Science: Theory and methods)"
+  impact_factor: 5.3
+  metrics_year: 2025
+  metrics_detail: "IF 5.3, Rank Q1 (83.9 in Computer Science: Theory and methods, 76.9 in Computer Science: Information systems)"
   doi: "https://doi.org/10.3390/bdcc10050163"
   pdf: "../files/2026-bdcc.pdf"
   code: "https://github.com/BorjaArroyo/mia-fl"
@@ -41,9 +41,9 @@
   type: journal
   quartile: Q1
   journal: "Battery Energy"
-  impact_factor: 9.9
-  metrics_year: 2024
-  metrics_detail: "IF 9.9, Rank Q1 (89.8 in Electrochemistry, 87.1 in Energy & Fuels, 87.3 in Materials Science: Multidisciplinary)"
+  impact_factor: 11.1
+  metrics_year: 2025
+  metrics_detail: "IF 11.1, Rank Q1 (89.8 in Electrochemistry, 86.6 in Energy & Fuels, 85.9 in Materials Science: Multidisciplinary)"
   doi: "https://doi.org/10.1002/bte2.70122"
   pdf: "../files/2026-be.pdf"
 
@@ -53,9 +53,9 @@
   type: journal
   quartile: Q1
   journal: "IEEE Journal of Oceanic Engineering"
-  impact_factor: 5.3
-  metrics_year: 2024
-  metrics_detail: "IF 5.3, Rank Q1 (87.8 in Engineering: Civil, 81.1 in Engineering: Electrical & Electronic, 86.1 in Engineering: Ocean, 94.6 in Oceanography)"
+  impact_factor: 5.6
+  metrics_year: 2025
+  metrics_detail: "IF 5.6, Rank Q1 (85.8 in Engineering: Civil, 80.6 in Engineering: Electrical & electronic, 86.1 in Engineering: Ocean, 93.3 in Oceanography)"
   doi: "https://doi.org/10.1109/JOE.2025.3647846"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:GnPB-g6toBAC"
   pdf: "../files/2026-joe.pdf"
@@ -67,9 +67,9 @@
   type: journal
   quartile: Q1
   journal: "IEEE Journal of Biomedical and Health Informatics"
-  impact_factor: 6.8
-  metrics_year: 2024
-  metrics_detail: "IF 6.8, Rank Q1 (92.1 in Computer Science: Information Systems, 87.1 in Computer Science: Interdisciplinary Applications, 96.3 in Mathematical & Computational Biology, 88.5 in Medical Informatics)"
+  impact_factor: 7.7
+  metrics_year: 2025
+  metrics_detail: "IF 7.7, Rank Q1 (91.5 in Computer Science: Information Systems, 85.7 in Computer Science: Interdisciplinary applications, 93.3 in Mathematical & Computational Biology, 88.0 in Medical Informatics)"
   doi: "https://doi.org/10.1109/JBHI.2025.3595371"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:TFP_iSt0sucC"
   pdf: "../files/2026-jbhi.pdf"
@@ -137,11 +137,11 @@
   authors: "Fernández Salvador, L. F., Vilallonga Tejela, B., Almodóvar, A., Parras, J., & Zazo, S."
   year: 2025
   type: journal
-  quartile: Q2
+  quartile: Q1
   journal: "Journal of Marine Science and Engineering"
-  impact_factor: 2.8
-  metrics_year: 2024
-  metrics_detail: "IF 2.8, Rank Q2 (74.0 in Engineering: Marine, 63.9 in Engineering: Ocean, 73.1 in Oceanography)"
+  impact_factor: 3.2
+  metrics_year: 2025
+  metrics_detail: "IF 3.2, Rank Q1 (75.0 in Engineering: Marine, 75.4 in Oceanography)"
   doi: "https://doi.org/10.3390/jmse13091627"
   scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:k_IJM867U9cC"
   pdf: "../files/2025-jmse.pdf"
@@ -153,9 +153,9 @@
   type: journal
   quartile: Q1
   journal: "Neurocomputing"
-  impact_factor: 6.5
-  metrics_year: 2024
-  metrics_detail: "IF 6.5, Rank Q1 (82.1 in Computer Science, Artificial Intelligence)"
+  impact_factor: 6.7
+  metrics_year: 2025
+  metrics_detail: "IF 6.7, Rank Q1 (79.8 in Computer Science: Artificial Intelligence)"
   doi: "https://doi.org/10.1016/j.neucom.2025.131122"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:ZeXyd9-uunAC"
   pdf: "../files/2025-neurocom.pdf"
@@ -167,9 +167,9 @@
   type: journal
   quartile: Q1
   journal: "IEEE Open Journal of the Computer Society"
-  impact_factor: 8.2
-  metrics_year: 2024
-  metrics_detail: "IF 8.2, Rank Q1 (92.9 in Computer Science: Theory and Methods, 91.1 in Computer Science: Interdisciplinary Applications, 92.2 in Engineering, Electrical & Electronic)"
+  impact_factor: 6.0
+  metrics_year: 2025
+  metrics_detail: "IF 6.0, Rank Q1 (88.0 in Computer Science: Theory and Methods, 83.9 in Engineering, Electrical & Electronic, 81.8 in Computer Science: Information systems, 85.8 in Computer Science: Hardware & architecture)"
   doi: "https://doi.org/10.1109/OJCS.2025.3572244"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:j3f4tGmQtD8C"
   pdf: "../files/2025-mia-ojcs.pdf"
@@ -181,9 +181,9 @@
   type: journal
   quartile: Q1
   journal: "Big Data and Cognitive Computing"
-  impact_factor: 4.4
-  metrics_year: 2024
-  metrics_detail: "IF 4.4, Rank Q1 (82.7 in Computer Science: Theory and Methods)"
+  impact_factor: 5.3
+  metrics_year: 2025
+  metrics_detail: "IF 5.3, Rank Q1 (83.9 in Computer Science: Theory and methods, 76.9 in Computer Science: Information systems)"
   doi: "https://doi.org/10.3390/bdcc9020018"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:e5wmG9Sq2KIC"
   pdf: "../files/2025-bdcc.pdf"
