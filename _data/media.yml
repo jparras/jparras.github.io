@@ -1,7 +1,14 @@
+- year: 2026
+  title: "Científicos españoles enseñan a la IA a aprender del cáncer con pocos datos"
+  outlet: "La Razón"
+  url: "https://www.larazon.es/salud/investigadores-espanoles-ensenan-aprender-cancer-pocos-datos_202606046a21621fddbf36750d242afc.html"
+  topic: "Healthcare AI"
+  kind: "Digital news"
+
 - year: 2025
   title: "¿Se fiaría del criterio de ChatGPT para su diagnóstico médico? Por si acaso, busque una segunda opinión"
   outlet: "The Conversation"
-  url: "https://theconversation.com/se-fiaria-del-criterio-de-chatgpt-para-su-diagnostico-medico-por-si-acaso-busque-una-segunda-opinion-260045 "
+  url: "https://theconversation.com/se-fiaria-del-criterio-de-chatgpt-para-su-diagnostico-medico-por-si-acaso-busque-una-segunda-opinion-260045"
   topic: "Healthcare AI"
   kind: "Article"
 
