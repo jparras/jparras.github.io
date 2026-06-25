@@ -15,7 +15,7 @@
 
 - name: "Premio Luis Felipe Torrente de Divulgación sobre Medicina y Salud"
   short_name: "Torrente Outreach Award"
-  result: accesit
+  result: finalist
   year: 2025
   awarded_by: "Fundación Lilly & The Conversation"
   url: "https://doi.org/10.64628/AAO.sg74wnx9a"
@@ -112,14 +112,15 @@
 # ── Supervised student awards ─────────────────────────────────────────────────
 # Awards won by supervised students, attributable to mentoring activity.
 
-- name: "Best Master's Thesis — General Engineer D. Antonio Remón y Zarco del Valle Award (student)"
-  short_name: "Best Master's Thesis (supervised)"
+- name: "Premio Luis Felipe Torrente de Divulgación sobre Medicina y Salud"
+  short_name: "Torrente Outreach Award"
   result: winner
-  year: 2019
-  awarded_by: "Cátedra CESEDEN-UPM"
-  category: thesis
+  year: 2026
+  awarded_by: "Fundación Lilly & The Conversation"
+  url: "https://doi.org/10.64628/AAO.f3yshmpmw"
+  category: outreach
   type: "supervised"
-  description: "First prize awarded to a supervised Master's student in the Ramón y Zarco del Valle national awards."
+  description: "Best divulgation article."
 
 - name: "Best PhD Thesis in International cooperation for sustainable Human Development"
   short_name: "Best PhD Thesis (supervised)"
@@ -129,3 +130,12 @@
   category: thesis
   type: "supervised"
   description: "Accesit awarded to a supervised PhD student in International cooperation for sustainable Human Development."
+
+- name: "Best Master's Thesis — General Engineer D. Antonio Remón y Zarco del Valle Award (student)"
+  short_name: "Best Master's Thesis (supervised)"
+  result: winner
+  year: 2019
+  awarded_by: "Cátedra CESEDEN-UPM"
+  category: thesis
+  type: "supervised"
+  description: "First prize awarded to a supervised Master's student in the Ramón y Zarco del Valle national awards."
