@@ -21,6 +21,18 @@
 # =============================================================================
 
 # ── 2026 ─────────────────────────────────────────────────────────────────────
+- title: "Novel oxygenscan parameters differentiate unique hemolytic and inflammatory profiles associated with sickle cell disease genotypes"
+  authors: "Idrizovic, A., Traets, M. J., Gimbert, A. C., Reidel, S., van der Veen, S., Pham Hung D’Alexandry D’Orengiani, A. L., et al."
+  year: 2026
+  type: journal
+  quartile: Q1
+  journal: "Scientific Reports"
+  impact_factor: 4.9
+  metrics_year: 2025
+  metrics_detail: "IF 4.9, Rank Q1 (Multidisciplinary Sciences: 85.4)"
+  doi: "https://doi.org/10.1038/s41598-026-62787-7"
+  scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:35N4QoGY0k4C"
+
 - title: "Deep survival analysis in multimodal medical data: A parametric and probabilistic approach with competing risks"
   authors: "Garrido, A., Almodóvar, A., Apellániz, P. A., Zazo, S., & Parras, J."
   year: 2026
@@ -120,7 +132,7 @@
   year: 2025
   type: conference
   venue: "Neural Information Processing Systems (NeurIPS 2025)"
-  doi: "https://neurips.cc/virtual/2025/loc/san-diego/poster/116213"
+  doi: "https://doi.org/10.52202/085713-4558"
   scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:_Qo2XoVZTnwC"
   pdf: "../files/2025-decaflow.pdf"
   code: "https://github.com/aalmodovares/DeCaFlow"
