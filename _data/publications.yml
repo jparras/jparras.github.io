@@ -43,6 +43,7 @@
   metrics_year: 2025
   metrics_detail: "IF 4.9, Rank Q1 (Multidisciplinary Sciences: 85.4)"
   doi: "https://doi.org/10.1038/s41598-026-57704-x"
+  pdf: "../files/2026-sr-samvae.pdf"
   code: "https://github.com/AlbaGarridoLopezz/SAMVAE"
   scholar: "https://scholar.google.es/citations?view_op=view_citation&hl=es&user=AQcxu7MAAAAJ&sortby=pubdate&citation_for_view=AQcxu7MAAAAJ:bEWYMUwI8FkC"
 
