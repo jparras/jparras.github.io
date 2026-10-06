@@ -21,6 +21,18 @@
 # =============================================================================
 
 # ── 2026 ─────────────────────────────────────────────────────────────────────
+- title: "Real-time sonar simulation for UUVs using rasterization and omnidirectional screen space reflections"
+  authors: "Ortiz-Toro, C. A., Saldaña-Esteban, R., Parras, J., & Gutiérrez, A."
+  year: 2026
+  type: journal
+  quartile: Q1
+  journal: "Applied Ocean Research"
+  impact_factor: 5.1
+  metrics_year: 2025
+  metrics_detail: "IF 5.1, Rank Q1 (Oceanography: 90.3, Engineering, Ocean: 75.0)"
+  doi: "https://doi.org/10.1016/j.apor.2026.105276"
+  pdf: "../files/2026-aor.pdf"
+
 - title: "Novel oxygenscan parameters differentiate unique hemolytic and inflammatory profiles associated with sickle cell disease genotypes"
   authors: "Idrizovic, A., Traets, M. J., Gimbert, A. C., Reidel, S., van der Veen, S., Pham Hung D’Alexandry D’Orengiani, A. L., et al."
   year: 2026
