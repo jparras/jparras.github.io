@@ -21,6 +21,18 @@
 # =============================================================================
 
 # ── 2026 ─────────────────────────────────────────────────────────────────────
+- title: "Kolmogorov-Arnold causal generative models"
+  authors: "Almodóvar, A., Elizo, M., Apellániz, P. A., Zazo, S., & Parras, J."
+  year: 2026
+  type: journal
+  quartile: Q1
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  impact_factor: 20.4
+  metrics_year: 2025
+  metrics_detail: "IF 20.4, Rank Q1 (Computer Science, Artificial Intelligence: 98.3, Engineering, Electrical & Electronic: 99.1)"
+  doi: "https://doi.org/10.1109/TPAMI.2026.3721159"
+  code: "https://github.com/aalmodovares/kacgm"
+
 - title: "Real-time sonar simulation for UUVs using rasterization and omnidirectional screen space reflections"
   authors: "Ortiz-Toro, C. A., Saldaña-Esteban, R., Parras, J., & Gutiérrez, A."
   year: 2026
